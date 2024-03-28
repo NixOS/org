@@ -1,1 +1,5 @@
-/org-repo.md @infinisil @zimbatm
+# See ./org-repo.md
+
+/.github/CODEOWNERS @infinisil
+
+/org-repo.md @infinisil

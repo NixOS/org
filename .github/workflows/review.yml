@@ -1,0 +1,24 @@
+name: Regular review
+on:
+  workflow_dispatch: # Allows triggering manually
+  schedule:
+    - cron: '54 12 1 * *' # runs every first of the month at 17:10 UTC (chosen somewhat randomly)
+
+permissions:
+  issues: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: |
+          gh api \
+            --method POST \
+            -H "Accept: application/vnd.github+json" \
+            -H "X-GitHub-Api-Version: 2022-11-28" \
+            /repos/"$GITHUB_REPOSITORY"/issues \
+            -f title="[$(date +'%Y %B')] Regular manual review " \
+            -f body="$(./review-body.sh)"
+        env:
+          GH_TOKEN: ${{ github.token }}
