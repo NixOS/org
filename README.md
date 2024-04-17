@@ -1,3 +1,5 @@
+<!-- FileMaintainer: @infinisil -->
+
 # Nix organisation
 
 This repository aims to document the organisation of official Nix resources, such as:

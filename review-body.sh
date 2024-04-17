@@ -19,15 +19,36 @@ If you're pinged, please ensure that the relevant documentation matches reality.
 
 If all checkmarks are ticked, the issue can be closed.
 
-## Code owners
+## Maintainers
 
 These are all [current code owner entries](../tree/$rev/.github/CODEOWNERS):
 "
 
-# TODO: List all files in the repo, link to them directly and look up codeowners using some glob matching/codeowners library/CLI, warn for files without code owner
-while read -r file users; do
-  if [[ "$file" == "#" || "$file" == "" ]]; then
-    continue
-  fi
-  echo "- [ ] \`$file\`: $users"
-done < .github/CODEOWNERS
+listDir() {
+  local indent=$1
+  local dir=$2
+
+  readarray -d '' entries < <(git -C "$dir" ls-tree "$rev" --name-only -z)
+  declare -a dirs files
+  for entry in "${entries[@]}"; do
+    if [[ -d "$entry" ]]; then
+      dirs+=("$entry")
+    else
+      files+=("$entry")
+    fi
+  done
+
+  for entry in "${dirs[@]}" "${files[@]}"; do
+    subpath=${dir:+$dir/}$entry
+    link="[\`$entry\`](../tree/$rev/$subpath)"
+    if [[ -d "$subpath" ]]; then
+      echo "$indent- $link"
+      listDir "$indent  " "$subpath"
+    else
+      readarray -t maintainers < <(sed -n 's/.*FileMaintainer: \(@[[:alnum:]-]*\) .*/\1/p' "$subpath")
+      echo "$indent- [ ] $link: ${maintainers[*]:-"**Nobody!**"}"
+    fi
+  done
+}
+
+listDir "" "$PWD"
