@@ -1,5 +1,5 @@
 # See ./org-repo.md
 
-/.github/CODEOWNERS @infinisil
+/.github/CODEOWNERS @infinisil @zimbatm
 
-/org-repo.md @infinisil
+/doc/org-repo.md @infinisil @zimbatm
