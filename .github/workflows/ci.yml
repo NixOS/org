@@ -1,8 +1,11 @@
 name: CI
 on:
-  pull_request:
-    branches:
-      - main
+  # We use pull_request_target such that the code owner validation works for PRs from forks,
+  # because we need repository secrets for that, which pull_request wouldn't allow from forks.
+  # However, it's very important that we don't run code from forks without sandboxing it,
+  # because that way anybody could potentially extract repository secrets!
+  # Furthermore, using pull_request_target doesn't require manually approving first-time contributors
+  pull_request_target:
 
 jobs:
   xrefcheck:
@@ -10,6 +13,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v4
+      with:
+        ref: refs/pull/${{ github.event.pull_request.number }}/merge
+        path: untrusted-pr
+
     - uses: serokell/xrefcheck-action@v1
+      with:
+        xrefcheck-args: "--root untrusted-pr"
 
 # TODO: Use https://github.com/marketplace/actions/github-codeowners-validator
