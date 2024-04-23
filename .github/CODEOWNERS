@@ -7,7 +7,6 @@
 /.github/CODEOWNERS @infinisil @zimbatm
 /.github/workflows @infinisil @zimbatm
 /scripts @infinisil @zimbatm
-/review-body.sh @infinisil @zimbatm
 
 /doc/org-repo.md @infinisil @zimbatm
 /doc/discourse.md @infinisil @zimbatm
