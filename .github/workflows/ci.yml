@@ -25,6 +25,9 @@ jobs:
     name: Validate codeowners
     runs-on: ubuntu-latest
     steps:
+    - uses: cachix/install-nix-action@v26
+      with:
+        nix_path: nixpkgs=channel:nixos-unstable
 
     - uses: actions/checkout@v4
       with:
@@ -55,3 +58,12 @@ jobs:
 
         # Specifies whether only teams are allowed as owners of files.
         owner_checker_owners_must_be_teams: "false"
+
+    # The above validator doesn't currently ensure that people have write access: https://github.com/mszostok/codeowners-validator/issues/157
+    # So we're doing it manually instead
+    - name: Check that codeowners have write access
+      # Important that we run the script from the base branch,
+      # because otherwise a PR from a fork could change it to extract the secret
+      run: trusted-base/scripts/unprivileged-owners.sh untrusted-pr ${{ github.repository }}
+      env:
+        GH_TOKEN: "${{ secrets.OWNERS_VALIDATOR_GITHUB_SECRET }}"

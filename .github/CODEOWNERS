@@ -6,6 +6,7 @@
 
 /.github/CODEOWNERS @infinisil @zimbatm
 /.github/workflows @infinisil
+/scripts @infinisil
 /review-body.sh @infinisil
 
 /doc/org-repo.md @infinisil @zimbatm
