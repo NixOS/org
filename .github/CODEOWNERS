@@ -1,5 +1,19 @@
-# See ./org-repo.md
+# See doc/org-repo.md
+
+/README.md @infinisil
+/CONTRIBUTING.md @infinisil
+/LICENSE @infinisil
 
 /.github/CODEOWNERS @infinisil @zimbatm
+/.github/workflows @infinisil
+/review-body.sh @infinisil
 
 /doc/org-repo.md @infinisil @zimbatm
+/doc/discourse.md @infinisil
+/doc/github.md @infinisil
+/doc/matrix.md @infinisil
+/doc/moderation.md @infinisil
+/doc/nixos-releases.md @infinisil
+/doc/resources.md @infinisil
+/doc/rfcs.md @infinisil
+/doc/teams.md @infinisil
