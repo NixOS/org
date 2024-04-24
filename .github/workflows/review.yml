@@ -11,14 +11,26 @@ jobs:
   update:
     runs-on: ubuntu-latest
     steps:
+      - uses: cachix/install-nix-action@v26
+
       - uses: actions/checkout@v4
+        with:
+          path: repo
+
+      - name: Generate issue body
+        run: repo/scripts/review-body.sh repo ${{ github.repository }} > body
+        env:
+          # This token has read-only admin access to see who has write access to this repo
+          GH_TOKEN: "${{ secrets.OWNERS_VALIDATOR_GITHUB_SECRET }}"
+
       - run: |
           gh api \
             --method POST \
             -H "Accept: application/vnd.github+json" \
             -H "X-GitHub-Api-Version: 2022-11-28" \
-            /repos/"$GITHUB_REPOSITORY"/issues \
+            /repos/${{ github.repository }}/issues \
             -f title="[$(date +'%Y %B')] Regular manual review " \
-            -f body="$(./review-body.sh)"
+            -F body=@body
         env:
+          # This token has write access to only issues to create one
           GH_TOKEN: ${{ github.token }}
