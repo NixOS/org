@@ -1,23 +1,23 @@
 # See doc/org-repo.md
 
-/README.md @infinisil @zimbatm
-/CONTRIBUTING.md @infinisil @zimbatm
-/LICENSE @infinisil @zimbatm
+/README.md @NixOS/org
+/CONTRIBUTING.md @NixOS/org
+/LICENSE @NixOS/org
 
-/.gitignore @infinisil @zimbatm
-/.github/CODEOWNERS @infinisil @zimbatm
-/.github/workflows @infinisil @zimbatm
-/scripts @infinisil @zimbatm
-/npins @infinisil @zimbatm
-/default.nix @infinisil @zimbatm
-/shell.nix @infinisil @zimbatm
+/.gitignore @NixOS/org
+/.github/CODEOWNERS @NixOS/org
+/.github/workflows @NixOS/org
+/scripts @NixOS/org
+/npins @NixOS/org
+/default.nix @NixOS/org
+/shell.nix @NixOS/org
 
-/doc/org-repo.md @infinisil @zimbatm
-/doc/discourse.md @infinisil @zimbatm
-/doc/github.md @infinisil @zimbatm
-/doc/matrix.md @infinisil @zimbatm
-/doc/moderation.md @infinisil @zimbatm
-/doc/nixos-releases.md @infinisil @zimbatm
-/doc/resources.md @infinisil @zimbatm
-/doc/rfcs.md @infinisil @zimbatm
-/doc/teams.md @infinisil @zimbatm
+/doc/org-repo.md @NixOS/org
+/doc/discourse.md @NixOS/org
+/doc/github.md @NixOS/org
+/doc/matrix.md @NixOS/org
+/doc/moderation.md @NixOS/org
+/doc/nixos-releases.md @NixOS/org
+/doc/resources.md @NixOS/org
+/doc/rfcs.md @NixOS/org
+/doc/teams.md @NixOS/org
