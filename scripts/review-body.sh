@@ -19,11 +19,11 @@ rev=$(git -C "$root" rev-parse HEAD)
 
 echo "Because the documentation in this repository may slowly deviate from reality, this monthly issue is created to regularly review the files.
 
-If you're pinged, please ensure that the relevant documentation matches reality.
+All files are listed below with their associated code owners, who are asked to ensure that their contents match reality.
 
-- If that's not the case, please investigate how this happened and address this so it doesn't happen again.
+- If that's not the case, please investigate how this happened and address it so that it doesn't happen again.
 
-  To mitigate the current inconsistency:
+  To mitigate an inconsistency:
   - If a PR was merged without updating reality, update reality to match the new documentation, then post a comment in this issue with what was done.
   - If reality was updated without a PR, open a PR to update the documentation, then post a comment in this issue with a link to the PR.
 
@@ -31,18 +31,50 @@ If you're pinged, please ensure that the relevant documentation matches reality.
 
 If all checkmarks are ticked, the issue can be closed.
 
-## Code owners
+## Files
 
-These are all [current code owner entries](../tree/$rev/.github/CODEOWNERS):
+These are the [current code owners](https://github.com/$repo/tree/$rev/.github/CODEOWNERS) for each file:
 "
 
-# TODO: List all files in the repo, link to them directly and look up codeowners using some glob matching/codeowners library/CLI, warn for files without code owner
-while read -r file users; do
-  if [[ "$file" == "#" || "$file" == "" ]]; then
-    continue
+declare -A codeowners
+
+while read -r file owners; do
+  if [[ "$owners" != "(unowned)" ]]; then
+    codeowners[$file]=$owners
   fi
-  echo "- [ ] \`$file\`: $users"
-done < "$root"/.github/CODEOWNERS
+done < <(cd "$root"; codeowners)
+
+listDir() {
+  local indent=$1
+  local dir=$2
+  local -a entries dirs files
+  local subpath link
+
+  readarray -d '' entries < <(git -C "$root/$dir" ls-tree "$rev" --name-only -z)
+  # This is just so we can order directories before files,
+  # which makes the result much nicer
+  for entry in "${entries[@]}"; do
+    subpath=${dir:+$dir/}$entry
+    if [[ -d "$root/$subpath" ]]; then
+      dirs+=("$entry")
+    else
+      files+=("$entry")
+    fi
+  done
+
+  for entry in "${dirs[@]}" "${files[@]}"; do
+    subpath=${dir:+$dir/}$entry
+    link="[\`$entry\`](https://github.com/$repo/tree/$rev/$subpath)"
+    if [[ -d "$root/$subpath" ]]; then
+      echo "$indent- $link"
+      listDir "$indent  " "$subpath"
+    else
+      echo "$indent- [ ] $link: ${codeowners[$subpath]:-"**Nobody!**"}"
+    fi
+  done
+}
+
+listDir "" ""
 
 echo ""
 
