@@ -1,0 +1,23 @@
+{
+  "pins": {
+    "codeowners-validator": {
+      "type": "Git",
+      "repository": {
+        "type": "GitHub",
+        "owner": "tweag",
+        "repo": "codeowners-validator"
+      },
+      "branch": "simpler-faster-permission-check",
+      "revision": "a69f70c0bd8ec168ff695f412afa83c7b7a65413",
+      "url": "https://github.com/tweag/codeowners-validator/archive/a69f70c0bd8ec168ff695f412afa83c7b7a65413.tar.gz",
+      "hash": "1rybdypjgn4i065r6msfwyx1rvv73x19p28lps3si79bwbkg2xg0"
+    },
+    "nixpkgs": {
+      "type": "Channel",
+      "name": "nixpkgs-unstable",
+      "url": "https://releases.nixos.org/nixpkgs/nixpkgs-24.05pre616757.4c86138ce486/nixexprs.tar.xz",
+      "hash": "0lbvdj9jc7g3pqs0yvahpb8y453gn65jvkvbnnkbi6m4afp92p04"
+    }
+  },
+  "version": 3
+}
