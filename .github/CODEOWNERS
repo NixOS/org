@@ -10,10 +10,12 @@
 
 /doc/org-repo.md @infinisil @zimbatm
 /doc/discourse.md @infinisil @zimbatm
-/doc/github.md @infinisil @zimbatm
 /doc/matrix.md @infinisil @zimbatm
 /doc/moderation.md @infinisil @zimbatm
 /doc/nixos-releases.md @infinisil @zimbatm
 /doc/resources.md @infinisil @zimbatm
 /doc/rfcs.md @infinisil @zimbatm
 /doc/teams.md @infinisil @zimbatm
+
+/doc/github.md @domenkozar @edolstra @garbas @zimbatm
+/doc/github-owners.json @domenkozar @edolstra @garbas @zimbatm
