@@ -2,9 +2,9 @@
 
 /README.md @infinisil @zimbatm
 /CONTRIBUTING.md @infinisil @zimbatm
-/LICENSE @infinisil @zimbatm
+/LICENSE @infinisil @zimbatm @web-flow
 
-/.gitignore @infinisil @zimbatm
+/.gitignore @infinisil zimbatm
 /.github/CODEOWNERS @infinisil @zimbatm
 /.github/workflows @infinisil @zimbatm
 /scripts @infinisil @zimbatm
@@ -12,7 +12,6 @@
 /default.nix @infinisil @zimbatm
 /shell.nix @infinisil @zimbatm
 
-/doc/org-repo.md @infinisil @zimbatm
 /doc/discourse.md @infinisil @zimbatm
 /doc/github.md @infinisil @zimbatm
 /doc/matrix.md @infinisil @zimbatm
