@@ -14,8 +14,10 @@ There are many repositories, but these are some of the most important ones.
 
 The Nix package collection and NixOS.
 
-There are over 200 Nixpkgs committers with access to merge any PR.
-To become a Nixpkgs committer, you can apply [in this issue](https://github.com/NixOS/nixpkgs/issues/50105).
+Currently there is an interim process for managing commit access, which is done by the Nixpkgs committer delegation team, whose processes are described [here](./nixpkgs-committers.md) and consists of these people:
+- @Mic92
+- @NickCao
+- @jtojnar
 
 Furthermore, every [Nixpkgs maintainer](https://github.com/NixOS/nixpkgs/tree/master/maintainers) is part of the organisation, such that they can be requested as a reviewer.
 
