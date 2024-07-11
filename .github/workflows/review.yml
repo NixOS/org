@@ -17,11 +17,18 @@ jobs:
         with:
           path: repo
 
+      - uses: actions/create-github-app-token@v1
+        id: app-token
+        with:
+          # This GitHub App needs Organization/Members/read-only access
+          # to figure out who's part of the team
+          app-id: ${{ secrets.APP_ID }}
+          private-key: ${{ secrets.APP_PRIVATE_KEY }}
+
       - name: Generate issue body
         run: repo/scripts/review-body.sh repo ${{ github.repository }} > body
         env:
-          # This token has read-only admin access to see who has write access to this repo
-          GH_TOKEN: "${{ secrets.OWNERS_VALIDATOR_GITHUB_SECRET }}"
+          GH_TOKEN: ${{ steps.app-token.outputs.token }}
 
       - run: |
           gh api \

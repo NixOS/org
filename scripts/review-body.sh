@@ -1,5 +1,5 @@
 #!/usr/bin/env nix-shell
-#!nix-shell -i bash --pure --keep GH_TOKEN -I nixpkgs=channel:nixpkgs-unstable -p codeowners github-cli gitMinimal
+#!nix-shell -i bash --pure --keep GH_TOKEN -I nixpkgs=channel:nixpkgs-unstable -p jq codeowners github-cli gitMinimal
 
 set -euo pipefail
 
@@ -36,9 +36,49 @@ These are the [current code owners](https://github.com/$repo/tree/$rev/.github/C
 
 declare -A codeowners
 
+cacheDir=${XDG_CACHE_HOME:-$HOME/.cache}/org-review-body
+
+# Resolves a team from e.g. "@NixOS/org" to "@NixOS/foo (@bar @baz)", caching the result
+resolve_team() {
+  local org=$1
+  local id=$2
+  local resolved
+  local cacheFile="$cacheDir/$org/$id"
+  if [[ -f "$cacheFile" ]]; then
+    cat "$cacheFile"
+  else
+    mkdir -p "$(dirname "$cacheFile")"
+    # For a GitHub App, this needs Organization/Members/read-only access
+    resolved=$(gh api \
+      -H "Accept: application/vnd.github+json" \
+      -H "X-GitHub-Api-Version: 2022-11-28" \
+      /orgs/"$org"/teams/"$id"/members |
+      jq -r 'map(.login | "@\(.)") | join(" ")')
+    echo "@$org/$id ($resolved)" | tee "$cacheFile"
+  fi
+}
+
+# Resolves all owners, e.g. from "@foo @NixOS/bar" to "@foo @NixOS/bar (@baz @qux)"
+resolve_owners() {
+  local team=$1
+  local -a entries
+  local result=()
+  IFS=" " read -r -a entries <<< "$team"
+
+  for entry in "${entries[@]}"; do
+    if [[ "$entry" =~ @(.*)/(.*) ]]; then
+      result+=("$(resolve_team "${BASH_REMATCH[1]}" "${BASH_REMATCH[2]}")")
+    else
+      result+=("$entry")
+    fi
+  done
+  echo "${result[*]}"
+}
+
 while read -r file owners; do
   if [[ "$owners" != "(unowned)" ]]; then
-    codeowners[$file]=$owners
+    resolved=$(resolve_owners "$owners")
+    codeowners[$file]=$resolved
   fi
 done < <(cd "$root"; codeowners)
 

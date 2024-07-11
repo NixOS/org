@@ -45,6 +45,7 @@ jobs:
       env:
         # See https://github.com/mszostok/codeowners-validator/blob/main/docs/gh-auth.md#public-repositories
         # And https://github.com/mszostok/codeowners-validator/pull/222#issuecomment-2079521185
+        # The same App is also used in ./review.yml
         GITHUB_APP_ID: ${{ secrets.APP_ID }}
         GITHUB_APP_INSTALLATION_ID: ${{ secrets.APP_INSTALLATION_ID }}
         GITHUB_APP_PRIVATE_KEY: ${{ secrets.APP_PRIVATE_KEY }}
