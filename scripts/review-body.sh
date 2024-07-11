@@ -72,4 +72,4 @@ listDir() {
   done
 }
 
-listDir "" ""
+listDir "" "doc"
