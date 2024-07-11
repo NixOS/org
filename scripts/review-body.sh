@@ -5,8 +5,6 @@ set -euo pipefail
 
 # This script outputs the contents of the regular review issue, see ./github/workflows/review.yml
 
-SCRIPT_DIR=$( cd -- "$( dirname -- "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )
-
 if (( $# != 2 )); then
   echo "Usage: $0 PATH OWNER/REPO"
   exit 1
@@ -75,10 +73,3 @@ listDir() {
 }
 
 listDir "" ""
-
-echo ""
-
-# Check that all code owners have write permissions
-# `|| true` because this script fails when there are code owners without permissions,
-# which is useful to fail PRs, but not here
-bash "$SCRIPT_DIR"/unprivileged-owners.sh "$root" "$repo" || true
