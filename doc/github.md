@@ -14,7 +14,7 @@ There are many repositories, but these are some of the most important ones.
 
 The Nix package collection and NixOS.
 
-Currently there is an interim process for managing commit access, which is done by the Nixpkgs committer delegation team, whose processes are described [here](./nixpkgs-committers.md) and consists of these people:
+Currently there is an interim process for managing commit access, which is done by the Nixpkgs committer admins, whose processes are described [here](./nixpkgs-committers.md) and consists of these people:
 - @Mic92
 - @NickCao
 - @jtojnar
