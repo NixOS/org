@@ -8,6 +8,12 @@ A very small number of people are owners of this GitHub Organisation, and have u
 - [@garbas](https://github.com/garbas)
 - [@zimbatm](https://github.com/zimbatm)
 
+Furthermore, there are some interim owners to help out:
+- [@infinisil](https://github.com/infinisil)
+- [@lassulus](https://github.com/lassulus)
+
+These interim owners are responsible for receiving requests to change anything about the GitHub organisation in the [GitHub Requests Matrix room](https://matrix.to/#/#org_owners:nixos.org), and either acting upon them or forwarding them to the right person.
+
 Over 200 people in the organisation have permissions over only certain parts.
 
 ## Repositories
