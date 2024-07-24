@@ -2,7 +2,11 @@
 
 The [NixOS GitHub organisation](https://github.com/nixos) and all its repositories is part of the [official resources](./resources.md).
 
-A very small number of people are owners of this GitHub Organisation, and have ultimate permissions over it.
+A very small number of people are owners of this GitHub Organisation, and have ultimate permissions over it:
+- [@domenkozar](https://github.com/domenkozar)
+- [@edolstra](https://github.com/edolstra)
+- [@garbas](https://github.com/garbas)
+- [@zimbatm](https://github.com/zimbatm)
 
 Over 200 people in the organisation have permissions over only certain parts.
 
