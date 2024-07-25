@@ -14,7 +14,7 @@
 
 /doc/org-repo.md @NixOS/org
 /doc/discourse.md @NixOS/org
-/doc/github.md @NixOS/org
+/doc/github.md @domenkozar @edolstra @garbas @zimbatm @infinisil @lassulus
 /doc/matrix.md @NixOS/org
 /doc/moderation.md @NixOS/org
 /doc/nixos-releases.md @NixOS/org
