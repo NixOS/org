@@ -1,6 +1,6 @@
 # Resources
 
-These are all the official Nix resources.
+This is a list of resources considered official.
 
 Currently there is no established process for how to make new official resources or make existing resources official.
 
