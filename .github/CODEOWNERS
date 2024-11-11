@@ -19,6 +19,7 @@
 /doc/moderation.md @NixOS/org
 /doc/nixos-releases.md @NixOS/org
 /doc/resources.md @NixOS/org
-/doc/rfcs.md @NixOS/org
-/doc/teams.md @NixOS/org
+/doc/governance.md @NixOS/steering
+/doc/values.md @NixOS/steering
+/doc/constitution.md @NixOS/steering
 /doc/nixpkgs-committers.md @Mic92 @NickCao @jtojnar

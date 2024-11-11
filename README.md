@@ -22,5 +22,6 @@ For contributing see [here](./CONTRIBUTING.md).
 - [Moderation](./doc/moderation.md)
 - [NixOS releases](./doc/nixos-releases.md)
 - [Resources](./doc/resources.md)
-- [RFCs](./doc/rfcs.md)
-- [Teams](./doc/teams.md)
+- [Governance](./doc/governance.md)
+  - [Nix Governance Constitution](./doc/constitution.md)
+  - [Nix Community Values](./doc/values.md)

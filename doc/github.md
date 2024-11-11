@@ -53,7 +53,7 @@ The [documentation team](https://nixos.org/community/teams/documentation/) contr
 
 ### [rfcs](https://github.com/NixOS/rfcs)
 
-The Nix community RFCs, see also [here](./rfcs.md).
+The Nix community RFCs, see also [here](./governance.md#rfc-process).
 
 The [RFC Steering Committee](https://nixos.org/community/teams/rfc-steering-committee/) controls this repository.
 
