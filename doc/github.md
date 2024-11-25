@@ -2,17 +2,7 @@
 
 The [NixOS GitHub organisation](https://github.com/nixos) and all its repositories is part of the [official resources](./resources.md).
 
-A very small number of people are owners of this GitHub Organisation, and have ultimate permissions over it:
-- [@domenkozar](https://github.com/domenkozar)
-- [@edolstra](https://github.com/edolstra)
-- [@garbas](https://github.com/garbas)
-- [@zimbatm](https://github.com/zimbatm)
-
-Furthermore, there is an interim owner to help out:
-- [@lassulus](https://github.com/lassulus)
-
-This interim owner is responsible for receiving requests to change anything about the GitHub organisation in the [Github org owners help desk Matrix room](https://matrix.to/#/#org_owners:nixos.org), and either acting upon them or forwarding them to the right person.
-
+The org owners documentation is [here](./github-org-owners.md).
 
 ## Repositories
 

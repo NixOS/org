@@ -18,6 +18,7 @@ For contributing see [here](./CONTRIBUTING.md).
 - [Org repo](./doc/org-repo.md)
 - [Discourse](./doc/discourse.md)
 - [GitHub](./doc/github.md)
+  - [Org owners](./doc/github-org-owners.md)
 - [Matrix](./doc/matrix.md)
 - [Moderation](./doc/moderation.md)
 - [NixOS releases](./doc/nixos-releases.md)

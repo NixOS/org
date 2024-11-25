@@ -14,7 +14,8 @@
 
 /doc/org-repo.md @NixOS/steering
 /doc/discourse.md @NixOS/steering
-/doc/github.md @NixOS/steering
+/doc/github.md @NixOS/org
+/doc/github-org-owners.md @NixOS/steering
 /doc/matrix.md @NixOS/steering
 /doc/moderation.md @NixOS/steering
 /doc/nixos-releases.md @NixOS/steering
