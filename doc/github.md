@@ -13,7 +13,6 @@ Furthermore, there is an interim owner to help out:
 
 This interim owner is responsible for receiving requests to change anything about the GitHub organisation in the [Github org owners help desk Matrix room](https://matrix.to/#/#org_owners:nixos.org), and either acting upon them or forwarding them to the right person.
 
-Over 200 people in the organisation have permissions over only certain parts.
 
 ## Repositories
 
@@ -23,7 +22,7 @@ There are many repositories, but these are some of the most important ones.
 
 The Nix package collection and NixOS.
 
-Currently there is an interim process for managing commit access, which is done by the Nixpkgs committer delegation team, whose processes are described [here](./nixpkgs-committers.md) and consists of these people:
+Over 200 people have commit access, which is managed by the Nixpkgs committer delegation team, whose processes are described [here](./nixpkgs-committers.md) and consists of these people:
 - @Mic92
 - @NickCao
 - @jtojnar

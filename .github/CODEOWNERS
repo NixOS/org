@@ -5,20 +5,20 @@
 /LICENSE @NixOS/org
 
 /.gitignore @NixOS/org
-/.github/CODEOWNERS @NixOS/org
+/.github/CODEOWNERS @NixOS/steering
 /.github/workflows @NixOS/org
 /scripts @NixOS/org
 /npins @NixOS/org
 /default.nix @NixOS/org
 /shell.nix @NixOS/org
 
-/doc/org-repo.md @NixOS/org
-/doc/discourse.md @NixOS/org
-/doc/github.md @domenkozar @edolstra @garbas @zimbatm @lassulus
-/doc/matrix.md @NixOS/org
-/doc/moderation.md @NixOS/org
-/doc/nixos-releases.md @NixOS/org
-/doc/resources.md @NixOS/org
+/doc/org-repo.md @NixOS/steering
+/doc/discourse.md @NixOS/steering
+/doc/github.md @NixOS/steering
+/doc/matrix.md @NixOS/steering
+/doc/moderation.md @NixOS/steering
+/doc/nixos-releases.md @NixOS/steering
+/doc/resources.md @NixOS/steering
 /doc/governance.md @NixOS/steering
 /doc/values.md @NixOS/steering
 /doc/constitution.md @NixOS/steering
