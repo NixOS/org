@@ -13,7 +13,7 @@
 /shell.nix @NixOS/org
 
 /doc/org-repo.md @NixOS/steering
-/doc/discourse.md @NixOS/steering
+/doc/discourse.md @NixOS/steering @mweinelt @picnoir @lassulus @jtojnar @ctheune @dpausp
 /doc/github.md @NixOS/org
 /doc/github-org-owners.md @NixOS/steering
 /doc/matrix.md @NixOS/steering
