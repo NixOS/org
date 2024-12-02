@@ -2,7 +2,7 @@ name: Regular review
 on:
   workflow_dispatch: # Allows triggering manually
   schedule:
-    - cron: '54 12 1 * *' # runs every first of the month at 17:10 UTC (chosen somewhat randomly)
+    - cron: '54 12 1 3,6,9,12 *' # runs every first of every third month at 12:54 UTC (chosen somewhat randomly)
 
 permissions:
   issues: write
