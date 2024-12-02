@@ -6,3 +6,18 @@ That subdomain is hosted by [Flying Circus](https://flyingcircus.io/)
 
 To request permissions or changes to Discourse, talk to one of the [administrators](https://discourse.nixos.org/about).
 
+The administration is handled by 2 Moderators, 1-2 representatives from the Steering Committee and the following Administrators from Flying Circus (Discourse hosting provider) and the Infra Team.
+
+Moderators:
+- @lassulus
+- @picnoir
+
+SC representatives:
+- @jtojnar
+
+Flying Circus Administrators:
+- https://discourse.nixos.org/u/ctheune
+- https://discourse.nixos.org/u/dpausp
+
+Infra Team:
+- @mweinelt
