@@ -26,3 +26,4 @@ For contributing see [here](./CONTRIBUTING.md).
 - [Governance](./doc/governance.md)
   - [Nix Governance Constitution](./doc/constitution.md)
   - [Nix Community Values](./doc/values.md)
+- [Calendar](./doc/calendar.md)
