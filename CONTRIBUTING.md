@@ -15,6 +15,6 @@ Those people will be requested for a review and be given write access to the rep
 
 Unavoidibly it can also happen for reality to deviate from the documentation without a PR.
 To mitigate this, all people with [code owner entries](./.github/CODEOWNERS) for files in the `doc` directory must regularly review their files.
-This is done by [automatically opening an issue every month](./.github/workflows/review.yml) to ping all code owners.
+This is done by [automatically opening an issue in regular intervals](./.github/workflows/review.yml) to ping all code owners.
 
 This serves as an initial fallback, but more automatic approaches could be implemented in the future, e.g. by scraping and comparing the state.
