@@ -11,7 +11,7 @@ The following people have the GitHub "owners" permissions on the NixOS organizat
 For any GitHub-related needs, you can reach out to the org owners by either:
 - Pinging [@NixOS/org](https://github.com/orgs/NixOS/teams/org)
 - [Creating an issue in this repository](https://github.com/NixOS/org/issues/new).
-- Messaging in the [Github org owners help desk Matrix room](https://matrix.to/#/#org_owners:nixos.org).
+- Messaging in the [Github org owners help desk Matrix room](https://matrix.to/#/%23org_owners:nixos.org).
 
 ### Authority and processes
 This team's role is to manage and unblock users of the github.com/NixOS GitHub organization. The @NixOS/steering gives them autonomy to handle small day-to-day tasks and expects them to escalate bigger decisions.

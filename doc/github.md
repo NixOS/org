@@ -50,7 +50,7 @@ The [RFC Steering Committee](https://nixos.org/community/teams/rfc-steering-comm
 
 Infrastructure configuration.
 
-The [infrastructure team](https://nixos.org/community/teams/infrastructure) controls this repository.
+The [infrastructure team](https://nixos.org/community/teams/infrastructure/) controls this repository.
 
 ### [foundation](https://github.com/NixOS/foundation)
 
