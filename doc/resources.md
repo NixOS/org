@@ -17,7 +17,7 @@ This domain also hosts various other websites and services, such as:
 - Mail server
 - [Matrix](./matrix.md)
 - [Discourse](./discourse.md)
-- [Wiki](https://wiki.nixos.org)
+- [Wiki](https://wiki.nixos.org/wiki/NixOS_Wiki)
 - [Search](https://search.nixos.org/)
 - [Status page](https://status.nixos.org/)
 - [Hydra](https://hydra.nixos.org/)
@@ -27,7 +27,7 @@ This domain also hosts various other websites and services, such as:
 A secondary domain is `nix.dev`, which hosts [the main documentation](https://nix.dev/) ([source](https://github.com/NixOS/nix.dev)).
 
 See the [infra repository](https://github.com/nixos/infra) for more information.
-To request permissions or changes to the infrastructure, get in touch with the [infrastructure team](https://nixos.org/community/teams/infrastructure).
+To request permissions or changes to the infrastructure, get in touch with the [infrastructure team](https://nixos.org/community/teams/infrastructure/).
 
 ## GitHub
 
