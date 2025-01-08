@@ -32,7 +32,7 @@ higher-impact changes that are _not controversial_, such as:
   - Performing maintenance.
   - Giving commit access to trusted people that offer maintenance.
   - Archiving if appropriate.
-- Create GitHub apps to unblock automation.
+- Changes necessary to unblock automation.
 - Changes to the structure and CI of the [org repository](https://github.com/NixOS/org).
 - Content updates to the [GitHub organisation documentation](./github.md).
 
