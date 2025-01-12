@@ -25,6 +25,7 @@ All org owners can individually take care of implementing:
   - Adding new org members to allow review requests.
   - Creating new unprivileged Nixpkgs teams for mention.
   - Updating repository meta information.
+- Changes requested by a repository admin that have no impact outside their repository.
 
 Org owners need approval from at least one other org owner to take care of implementing
 higher-impact changes that are _not controversial_, such as:
