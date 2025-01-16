@@ -7,6 +7,7 @@ The following people have the GitHub "owners" permissions on the NixOS organizat
 - [@tomberek](https://github.com/tomberek)
 - [@winterqt](https://github.com/winterqt)
 - [@zimbatm](https://github.com/zimbatm)
+
 ## How to contact the team
 For any GitHub-related needs, you can reach out to the org owners by either:
 - Pinging [@NixOS/org](https://github.com/orgs/NixOS/teams/org)
@@ -41,6 +42,9 @@ Org owners have no authority to make other changes.
 
 ### Responsibilities
 
+[^1]: ["Secure two-factor methods are passkeys, security keys, authenticator apps, and the GitHub mobile app"](https://docs.github.com/en/organizations/keeping-your-organization-secure/managing-two-factor-authentication-for-your-organization/requiring-two-factor-authentication-in-your-organization#requiring-secure-methods-of-two-factor-authentication-in-your-organization)
+
+- Ensure [all org owners exclusively use secure two-factor authentication](https://github.com/orgs/NixOS/people?query=role%3Aowner+two-factor%3Asecure)[^1].
 - Receive and process requests.
   - We expect org owners to be subscribed to the NixOS/org repo.
   - Each request should land in at least 2 org owners inboxes of some kind.
