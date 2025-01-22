@@ -1,12 +1,13 @@
 ## GitHub org owners
 
-The following people have the GitHub "owners" permissions on the NixOS organization:
+The following people have the GitHub "owners" permissions on the [NixOS organization](https://github.com/nixos):
 <!-- Also keep this in sync with the members of @NixOS/org! -->
 - [@infinisil](https://github.com/infinisil)
 - [@lassulus](https://github.com/lassulus)
 - [@tomberek](https://github.com/tomberek)
 - [@winterqt](https://github.com/winterqt)
 - [@zimbatm](https://github.com/zimbatm)
+
 ## How to contact the team
 For any GitHub-related needs, you can reach out to the org owners by either:
 - Pinging [@NixOS/org](https://github.com/orgs/NixOS/teams/org)
@@ -14,7 +15,9 @@ For any GitHub-related needs, you can reach out to the org owners by either:
 - Messaging in the [Github org owners help desk Matrix room](https://matrix.to/#/%23org_owners:nixos.org).
 
 ### Authority and processes
-This team's role is to manage and unblock users of the github.com/NixOS GitHub organization. The @NixOS/steering gives them autonomy to handle small day-to-day tasks and expects them to escalate bigger decisions.
+This team's role is to manage and unblock users of the NixOS GitHub organization.
+The [Steering Committee (SC)](./governance.md) gives them autonomy to handle
+small day-to-day tasks and expects them to escalate bigger decisions.
 
 All org owners can individually take care of implementing:
 - Decisions by bodies that have the authority to make GitHub org changes such as:
