@@ -6,8 +6,8 @@ These Google accounts have access to manage permissions (and make changes to eve
 <!-- Keep this list in sync with the codeowners of this file! -->
 - edolstra@gmail.com (@edolstra)
 - tomberek@gmail.com (@tomberek)
+- valentin.gagarin@moduscreate.com (@fricklerhandwerk)
 
 These Google accounts can only make changes to events:
-- valentin.gagarin@moduscreate.com (@fricklerhandwerk)
 - silvan.mosberger@moduscreate.com (@infinisil)
 - nixpkgs-architecture@infinisil.com (@infinisil)
