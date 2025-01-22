@@ -18,29 +18,27 @@ For any GitHub-related needs, you can reach out to the org owners by either:
 This team's role is to manage and unblock users of the NixOS GitHub organization.
 The [Steering Committee (SC)](./governance.md) gives them autonomy to handle
 small day-to-day tasks and expects them to escalate bigger decisions.
+The following decision tree describes the org owners authority:
 
-All org owners can individually take care of implementing:
-- Decisions by bodies that have the authority to make GitHub org changes such as:
+**Is the change impactful or controversial?**
+- *Yes*: **Is the change pre-approved by a body with corresponding authority?** This includes:
   - Arbitrary decisions by the Steering Committee.
   - Moderation decisions by the moderation team.
   - Changes from approved RFCs.
-- Low-impact changes, such as:
+
+  *Yes*: Any single org owner can implement it.
+
+  *No*: Not within the org owners authority, should be escalated to the SC.
+
+- *No*: **Is the change one of the following?**
   - Adding new org members to allow review requests.
   - Creating new unprivileged Nixpkgs teams for mention.
   - Updating repository meta information.
-- Changes requested by a repository admin that have no impact outside their repository.
+  - Changes requested by a repository admin that have no impact outside their repository.
 
-Org owners need approval from at least one other org owner to take care of implementing
-higher-impact changes that are _not controversial_, such as:
-- Administer unmaintained repos, such as:
-  - Performing maintenance.
-  - Giving commit access to trusted people that offer maintenance.
-  - Archiving if appropriate.
-- Changes necessary to unblock automation.
-- Changes to the structure and CI of the [org repository](https://github.com/NixOS/org).
-- Content updates to the [GitHub organisation documentation](./github.md).
+  *Yes*: Any single org owner can implement it.
 
-Org owners have no authority to make other changes.
+  *No*: Approval from at least one other org owner is needed to implement it.
 
 ### Responsibilities
 
