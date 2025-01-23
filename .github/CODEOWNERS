@@ -5,7 +5,7 @@
 /LICENSE @NixOS/org
 
 /.gitignore @NixOS/org
-/.github/CODEOWNERS @NixOS/steering
+/.github/CODEOWNERS @NixOS/org
 /.github/workflows @NixOS/org
 /scripts @NixOS/org
 /npins @NixOS/org
