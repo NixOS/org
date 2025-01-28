@@ -13,6 +13,8 @@ The current SC consists of these members:
 - [@tomberek](https://github.com/tomberek) (term ends 2025)
 - [@winterqt](https://github.com/winterqt) (term ends 2025)
 
+The entire SC can be reached via <steering@nixos.org> or by pinging the [@NixOS/steering](https://github.com/orgs/nixos/teams/steering) GitHub team.
+
 ## RFC Process
 
 The Nix RFC (Request For Comments) process exists to establish wider consensus for substantial changes. See the [rfcs repository](https://github.com/NixOS/rfcs) for more information.
