@@ -57,3 +57,9 @@ The [infrastructure team](https://nixos.org/community/teams/infrastructure/) con
 The home of the [NixOS foundation](./resources.md#foundation).
 
 The [NixOS foundation board](https://nixos.org/community/teams/foundation-board/) controls this repository.
+
+### [branding](https://github.com/NixOS/branding)
+
+The home of the branding guide and media kit.
+
+The [marketing team](https://nixos.org/community/teams/marketing/) controls this repository.
