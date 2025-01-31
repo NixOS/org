@@ -22,6 +22,7 @@
 /doc/resources.md @NixOS/steering
 /doc/governance.md @NixOS/steering
 /doc/values.md @NixOS/steering
+/doc/vault.md @Mic92 @zimbatm
 /doc/constitution.md @NixOS/steering
 /doc/nixpkgs-committers.md @Mic92 @NickCao @jtojnar
 /doc/calendar.md @edolstra @tomberek
