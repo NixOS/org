@@ -20,6 +20,7 @@
 /doc/moderation.md @NixOS/steering
 /doc/nixos-releases.md @NixOS/steering
 /doc/resources.md @NixOS/steering
+/doc/mail.md @NixOS/infra
 /doc/governance.md @NixOS/steering
 /doc/values.md @NixOS/steering
 /doc/vault.md @Mic92 @mweinelt @zimbatm
