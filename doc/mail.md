@@ -24,7 +24,6 @@ ImprovMX is configured to forward emails on the following addresses to the respe
   - [@therealpxc](https://github.com/therealpxc)
   - [@Kranzes](https://github.com/Kranzes)
   - [@tomberek](https://github.com/tomberek)
-  - [@garbas](https://github.com/garbas)
 - moderation@nixos.org:
   - [@lassulus](https://github.com/lassulus)
   - [@picnoir](https://github.com/picnoir)
