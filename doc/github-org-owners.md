@@ -1,6 +1,8 @@
 ## GitHub org owners
 
-The following people have the GitHub "owners" permissions on the NixOS organization:
+Both the [NixOS](https://github.com/nixos) and [NixCon](https://github.com/nixcon) GitHub organisations are official.
+
+The following people have the GitHub "owners" permissions:
 <!-- Also keep this in sync with the members of @NixOS/org! -->
 - [@infinisil](https://github.com/infinisil)
 - [@lassulus](https://github.com/lassulus)
