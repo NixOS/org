@@ -1,0 +1,86 @@
+# Email addresses
+
+The `@nixos.org` email server is currently hosted on [ImprovMX](https://improvmx.com/).
+
+ImprovMX is configured to forward emails on the following addresses to the respective users:
+- community@nixos.org: moderation@nixos.org
+- finance@nixos.org:
+  - [@edolstra](https://github.com/edolstra)
+  - [kate](https://discourse.nixos.org/u/kate) (Discourse)
+- foundation@nixos.org:
+  - [@edolstra](https://github.com/edolstra)
+  - [@refroni](https://github.com/refroni)
+  - [kate](https://discourse.nixos.org/u/kate) (Discourse)
+- fundraising@nixos.org:
+  - [@fricklerhandwerk](https://github.com/fricklerhandwerk)
+- infra@nixos.org:
+  - [@mweinelt](https://github.com/mweinelt)
+  - [@zimbatm](https://github.com/zimbatm)
+  - [@vcunat](https://github.com/vcunat)
+  - [@edef1c](https://github.com/edef1c)
+  - [@Mic92](https://github.com/Mic92)
+- marketing@nixos.org:
+  - [@idabzo](https://github.com/idabzo)
+  - [@therealpxc](https://github.com/therealpxc)
+  - [@Kranzes](https://github.com/Kranzes)
+  - [@tomberek](https://github.com/tomberek)
+- moderation@nixos.org:
+  - [@lassulus](https://github.com/lassulus)
+  - [@picnoir](https://github.com/picnoir)
+  - [uep](https://discourse.nixos.org/u/uep) (Discourse)
+- ngi@nixos.org:
+  - [@fricklerhandwerk](https://github.com/fricklerhandwerk)
+  - [@wamirez](https://github.com/wamirez)
+  - [@idabzo](https://github.com/idabzo)
+  - [@erictapen](https://github.com/erictapen)
+  - [@eljamm](https://github.com/eljamm)
+  - [@JulienMalka](https://github.com/JulienMalka)
+  - [@OPNA2608](https://github.com/OPNA2608)
+  - [@wegank](https://github.com/wegank)
+  - [@erethon](https://github.com/erethon)
+  - [@imincik](https://github.com/imincik)
+- partnerships@nixos.org:
+  - [@refroni](https://github.com/refroni)
+- rob@nixos.org:
+  - [@rbvermaa](https://github.com/rbvermaa)
+- ron@nixos.org:
+  - [@refroni](https://github.com/refroni)
+- security@nixos.org:
+  - [@mweinelt](https://github.com/mweinelt)
+  - [@risicle](https://github.com/risicle)
+  - [@LeSuisse](https://github.com/LeSuisse)
+- steering@nixos.org:
+  - [@Ericson2314](https://github.com/Ericson2314)
+  - [@Gabriella439](https://github.com/Gabriella439)
+  - [@fpletz](https://github.com/fpletz)
+  - [@roberth](https://github.com/roberth)
+  - [@tomberek](https://github.com/tomberek)
+  - [@winterqt](https://github.com/winterqt)
+  - [@jtojnar](https://github.com/jtojnar)
+- summer@nixos.org:
+  - [@edolstra](https://github.com/edolstra)
+  - [@MMesch](https://github.com/MMesch)
+  - [@bryanhonof](https://github.com/bryanhonof)
+  - [@tomberek](https://github.com/tomberek)
+  - [@gytis-ivaskevicius](https://github.com/gytis-ivaskevicius)
+  - [@ysndr](https://github.com/ysndr)
+  - [@DieracDelta](https://github.com/DieracDelta)
+- sysadmin@nixos.org:
+  - [@edolstra](https://github.com/edolstra)
+  - [@zimbatm](https://github.com/zimbatm)
+- webmaster@nixos.org:
+  - [@edolstra](https://github.com/edolstra)
+  - [@garbas](https://github.com/garbas)
+- wiki@nixos.org:
+  - [@lassulus](https://github.com/lassulus)
+  - [@Mic92](https://github.com/Mic92)
+- winter@nixos.org:
+  - [@winterqt](https://github.com/winterqt)
+- xsa@nixos.org:
+  - [@CertainLach](https://github.com/CertainLach)
+  - [@SigmaSquadron](https://github.com/SigmaSquadron)
+  - [@hehongbo](https://github.com/hehongbo)
+
+Emails can only be sent from the following addresses:
+- winter@nixos.org: For [@winterqt](https://github.com/winterqt)
+- ngi@nixos.org: For the [Nix@NGI team](https://discourse.nixos.org/t/nix-ngi-making-open-source-software-run-smoothly/59229)
