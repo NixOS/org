@@ -11,6 +11,10 @@ ImprovMX is configured to forward emails on the following addresses to the respe
   - [@edolstra](https://github.com/edolstra)
   - [@refroni](https://github.com/refroni)
   - [kate](https://discourse.nixos.org/u/kate) (Discourse)
+  - [@infinisil](https://github.com/infinisil)
+  - [@ryantrinkle](https://github.com/ryantrinkle)
+  - [@lassulus](https://github.com/lassulus)
+  - [@ra33it0](https://github.com/ra33it0)
 - fundraising@nixos.org:
   - [@fricklerhandwerk](https://github.com/fricklerhandwerk)
 - infra@nixos.org:
