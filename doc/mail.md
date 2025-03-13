@@ -80,6 +80,19 @@ ImprovMX is configured to forward emails on the following addresses to the respe
   - [@CertainLach](https://github.com/CertainLach)
   - [@SigmaSquadron](https://github.com/SigmaSquadron)
   - [@hehongbo](https://github.com/hehongbo)
+- nixcon@nixos.org:
+  - [@ners](https://github.com/ners)
+  - [@john-rodewald](https://github.com/john-rodewald)
+  - [@das-g](https://github.com/das-g)
+  - [@refroni](https://github.com/refroni)
+  - [@ra33it0](https://github.com/ra33it0)
+  - [@infinisil](https://github.com/infinisil)
+  - [@Nebucatnetzer](https://github.com/Nebucatnetzer)
+  - [@andir](https://github.com/andir)
+  - [@zmberber](https://github.com/zmberber)
+  - [@a-kenji](https://github.com/a-kenji)
+  - [@lassulus](https://github.com/lassulus)
+  - [@pinpox](https://github.com/pinpox)
 
 Emails can only be sent from the following addresses:
 - winter@nixos.org: For [@winterqt](https://github.com/winterqt)
