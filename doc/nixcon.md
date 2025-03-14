@@ -22,6 +22,8 @@ These are the organisers (ordered alphabetically):
 - Andreas (Github: [@Nebucatnetzer](https://github.com/Nebucatnetzer), [Matrix](https://matrix.to/#/%40nebucatnetzer13:matrix.org), [Discourse](https://discourse.nixos.org/u/Nebucatnetzer))
 - Andreas (GitHub: [@andir](https://github.com/andir), [Matrix](https://matrix.to/#/%40andi:kack.it), [Discourse](https://discourse.nixos.org/u/andir))
 - Berber (Github: [@zmberber](https://github.com/zmberber), [Matrix](https://matrix.to/#/%40zmberber:matrix.org), [Discourse](https://discourse.nixos.org/u/zmberber))
+- Ida (Github: [@idabzo](https://github.com/idabzo), [Matrix](https://matrix.to/#/%40idabzo:matrix.org), [Discourse](https://discourse.nixos.org/u/idabzo))
+- hrmny (Github: [@hrmny](https://github.com/ForsakenHarmony), [Matrix](https://matrix.to/#/%40hrmny:matrix.org), [Discourse](https://discourse.nixos.org/u/hrmny))
 - John (Github: [@john-rodewald](https://github.com/john-rodewald), [Matrix](https://matrix.to/#/%40john-rodewald:nixos.dev), [Discourse](https://discourse.nixos.org/u/john-rodewald))
 - Kenji (Github: [@a-kenji](https://github.com/a-kenji), [Matrix](https://matrix.to/#/%40a-kenji:matrix.org), [Discourse](https://discourse.nixos.org/u/a-kenji))
 - Lassulus (Github: [@lassulus](https://github.com/lassulus), [Matrix](https://matrix.to/#/%40lassulus:lassul.us), [Discourse](https://discourse.nixos.org/u/lassulus))
