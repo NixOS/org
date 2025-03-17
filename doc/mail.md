@@ -97,6 +97,8 @@ ImprovMX is configured to forward emails on the following addresses to the respe
   - [@a-kenji](https://github.com/a-kenji)
   - [@lassulus](https://github.com/lassulus)
   - [@pinpox](https://github.com/pinpox)
+  - [@ForsakenHarmony](https://github.com/ForsakenHarmony)
+  - [@idabzo](https://github.com/idabzo)
 
 Emails can only be sent from the following addresses:
 - winter@nixos.org: For [@winterqt](https://github.com/winterqt)
