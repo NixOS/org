@@ -99,6 +99,7 @@ ImprovMX is configured to forward emails on the following addresses to the respe
   - [@pinpox](https://github.com/pinpox)
   - [@ForsakenHarmony](https://github.com/ForsakenHarmony)
   - [@idabzo](https://github.com/idabzo)
+  - [@picnoir](https://github.com/picnoir)
 
 Emails can only be sent from the following addresses:
 - winter@nixos.org: For [@winterqt](https://github.com/winterqt)
