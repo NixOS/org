@@ -9,9 +9,9 @@ The [Nixpkgs committer delegation team](#team) is given the responsibility and a
 
 Nixpkgs committer delegation team consists of these people:
 
-- @Mic92
-- @NickCao
-- @jtojnar
+- [@Mic92](https://github.com/Mic92)
+- [@NickCao](https://github.com/NickCao)
+- [@jtojnar](https://github.com/jtojnar)
 
 ## Process
 - The process must be publicly documented (this document)
