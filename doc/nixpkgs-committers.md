@@ -11,7 +11,9 @@ Nixpkgs committer delegation team consists of these people:
 
 - [@Mic92](https://github.com/Mic92)
 - [@NickCao](https://github.com/NickCao)
-- [@jtojnar](https://github.com/jtojnar)
+- [@jtojnar](https://github.com/jtojnar) ([Matrix](https://matrix.to/#/@jtojnar:matrix.org), [Discourse](https://discourse.nixos.org/u/jtojnar))
+
+They can be contacted either individually, or through a [group message on Discourse](https://discourse.nixos.org/g/nixpkgs-nominations).
 
 ## Process
 - The process must be publicly documented (this document)
