@@ -102,15 +102,15 @@ Send an email to sponsor@nixos.org (which will forward to both the Nix Steering 
 
 ## Sponsorship process
 
-The following is internal documentation and should not go on the website. It involves the following respondents:
+The following is internal documentation and should not go on the website. For 2025 it involves the following respondents:
 - Board respondent: @infinisil or @ra33it0?
 - SC respondent: ???
 
 1. After receiving the email, board respondent replies that the email was received and that they will hear back within about 2 weeks.
 2. SC respondent ensures the SC internally rejects or provisionally approves the sponsor within 1 week.
    - If rejected, SC respondent replies to the sponsor with the rejection message.
-3. If provisionally approved by the SC, SC respondent forwards the name and website of the sponsor to the [NixCon 2025 orga Matrix room](https://matrix.to/#/%23nixcon2025-orga:lassul.us) for organiser approval.
+3. If provisionally approved by the SC, SC respondent forwards the name and website of the sponsor to the NixCon orga Matrix room for organiser approval.
 4. Within 1 week, the SC respondent checks whether organisers are okay with the sponsor, and if not, ensures that the SC internally reevaluates final rejection or approval of the sponsor.
    - If rejected, SC respondent replies to the sponsor with the rejection message.
-5. If accepted, SC informs the board respondent and the organisers in the [NixCon 2025 orga Matrix room](https://matrix.to/#/%23nixcon2025-orga:lassul.us) of the sponsor being accepted.
+5. If accepted, SC informs the board respondent and the organisers in the NixCon orga Matrix room of the sponsor being accepted.
 6. Board respondent sends follow-up instructions to the sponsor and tracks the status of payment and perk delivery.
