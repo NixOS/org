@@ -91,7 +91,7 @@ This should be displayed on the website.
 - Visibility priority is given according to tiers and donation amount.
 - The sponsor can selectively abstain from perks.
 - Surplus funds will be used to support official Nix projects.
-- Reach out if you'd like to sponsor in a more custom way, such as food, drinks or only specific perks.
+- Reach out if you'd like to sponsor in a more custom way, such as food, drinks, services, equipment, or only specific perks.
 
 ### How to sponsor
 
