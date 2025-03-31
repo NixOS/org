@@ -103,8 +103,8 @@ Send an email to sponsor@nixos.org (which will forward to both the Nix Steering 
 ## Sponsorship process
 
 The following is internal documentation and should not go on the website. For 2025 it involves the following respondents:
-- Board respondent: @infinisil or @ra33it0?
-- SC respondent: ???
+- Board respondent: @ra33it0 (deputy: @infinisil)
+- SC respondent: @tomberek (deputy: @winterqt)
 
 1. After receiving the email, board respondent replies that the email was received and that they will hear back within about 2 weeks.
 2. SC respondent ensures the SC internally rejects or provisionally approves the sponsor within 1 week.
