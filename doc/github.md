@@ -73,3 +73,5 @@ Documented in [./nixpkgs-committers.md](./nixpkgs-committers.md).
 ### [nixpkgs-maintainers](https://github.com/orgs/NixOS/teams/nixpkgs-maintainers)
 
 A very large group of contributors established by [RFC 39](https://github.com/NixOS/rfcs/blob/master/rfcs/0039-unprivileged-maintainer-teams.md).
+
+Since this is a very large group, _team notifications_ are turned off.
