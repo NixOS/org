@@ -63,3 +63,13 @@ The [NixOS foundation board](https://nixos.org/community/teams/foundation-board/
 The home of the branding guide and media kit.
 
 The [marketing team](https://nixos.org/community/teams/marketing/) controls this repository.
+
+## Groups
+
+### [nixpkgs-committers](https://github.com/orgs/NixOS/teams/nixpkgs-committers)
+
+Documented in [./nixpkgs-committers.md](./nixpkgs-committers.md).
+
+### [nixpkgs-maintainers](https://github.com/orgs/NixOS/teams/nixpkgs-maintainers)
+
+A very large group of contributors established by [RFC 39](https://github.com/NixOS/rfcs/blob/master/rfcs/0039-unprivileged-maintainer-teams.md).
