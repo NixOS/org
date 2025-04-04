@@ -4,6 +4,7 @@ The `@nixos.org` email server is currently hosted on [ImprovMX](https://improvmx
 
 ImprovMX is configured to forward emails on the following addresses to the respective users:
 - community@nixos.org: moderation@nixos.org
+- sponsor@nixos.org: steering@nixos.org, foundation@nixos.org
 - finance@nixos.org:
   - [@edolstra](https://github.com/edolstra)
   - [kate](https://discourse.nixos.org/u/kate) (Discourse)
