@@ -64,6 +64,12 @@ The home of the branding guide and media kit.
 
 The [marketing team](https://nixos.org/community/teams/marketing/) controls this repository.
 
+### [github-mgmt](https://github.com/NixOS/github-mgmt)
+
+Bi-directionally syncs a subset of the GitHub org settings.
+
+The [GitHub org owners](./github-org-owners.md) own this repository.
+
 ## Groups
 
 ### [nixpkgs-committers](https://github.com/orgs/NixOS/teams/nixpkgs-committers)
