@@ -17,24 +17,7 @@ The conference has previously been held in these locations:
 
 NixCon 2025 is planned to be held at [OST Rapperswil-Jona SG, Switzerland](https://github.com/nixcon/nixcon-proposals/issues/4) ([Map](https://www.openstreetmap.org/way/34754484)).
 
-These are the organisers (ordered alphabetically):
-- Alex (Github: [@ners](https://github.com/ners), [Matrix](https://matrix.to/#/%40ners:nixos.dev), [Discourse](https://discourse.nixos.org/u/ners))
-- Andreas (Github: [@Nebucatnetzer](https://github.com/Nebucatnetzer), [Matrix](https://matrix.to/#/%40nebucatnetzer13:matrix.org), [Discourse](https://discourse.nixos.org/u/Nebucatnetzer))
-- Andreas (GitHub: [@andir](https://github.com/andir), [Matrix](https://matrix.to/#/%40andi:kack.it), [Discourse](https://discourse.nixos.org/u/andir))
-- Antoine (GitHub: [@nlewo](https://github.com/nlewo), [Matrix](https://matrix.to/#/%40lewo:matrix.org), [Discourse](https://discourse.nixos.org/u/lewo))
-- Berber (Github: [@zmberber](https://github.com/zmberber), [Matrix](https://matrix.to/#/%40zmberber:matrix.org), [Discourse](https://discourse.nixos.org/u/zmberber))
-- Enrico (Github: [@escherlies](https://github.com/escherlies), [Matrix](https://matrix.to/#/%40enryco:tchncs.de))
-- Ida (Github: [@idabzo](https://github.com/idabzo), [Matrix](https://matrix.to/#/%40idabzo:matrix.org), [Discourse](https://discourse.nixos.org/u/idabzo))
-- hrmny (Github: [@ForsakenHarmony](https://github.com/ForsakenHarmony), [Matrix](https://matrix.to/#/%40hrmny:matrix.org), [Discourse](https://discourse.nixos.org/u/hrmny))
-- John (Github: [@john-rodewald](https://github.com/john-rodewald), [Matrix](https://matrix.to/#/%40john-rodewald:nixos.dev), [Discourse](https://discourse.nixos.org/u/john-rodewald))
-- Kenji (Github: [@a-kenji](https://github.com/a-kenji), [Matrix](https://matrix.to/#/%40a-kenji:matrix.org), [Discourse](https://discourse.nixos.org/u/a-kenji))
-- Lassulus (Github: [@lassulus](https://github.com/lassulus), [Matrix](https://matrix.to/#/%40lassulus:lassul.us), [Discourse](https://discourse.nixos.org/u/lassulus))
-- Pablo (Github: [@pinpox](https://github.com/pinpox), [Matrix](https://matrix.to/#/%40pinpox:matrix.org), [Discourse](https://discourse.nixos.org/u/pinpox))
-- Picnoir (GitHub: [@picnoir](https://github.com/picnoir), [Matrix](https://matrix.to/#/%40picnoir:alternativebit.fr), [Discourse](https://discourse.nixos.org/u/picnoir))
-- Raphael (Github: [@das-g](https://github.com/das-g), [Matrix](https://matrix.to/#/%40das-g:matrix.org), [Discourse](https://discourse.nixos.org/u/das-g))
-- Ron (Github: [@refroni](https://github.com/refroni), [Matrix](https://matrix.to/#/%40ronef:matrix.org), [Discourse](https://discourse.nixos.org/u/ron))
-- Sebastian (GitHub: [@ra33it0](https://github.com/ra33it0), [Matrix](https://matrix.to/#/%40ra33it0:matrix.org), [Discourse](https://discourse.nixos.org/u/ra33it0))
-- Silvan (Github: [@infinisil](https://github.com/infinisil), [Matrix](https://matrix.to/#/%40infinisil:matrix.org), [Discourse](https://discourse.nixos.org/u/infinisil))
+These are the organisers: https://2025.nixcon.org/organizers
 
 Organisers are using:
 - This GitHub issue for general updates: https://github.com/NixOS/org/issues/70
