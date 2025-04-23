@@ -17,7 +17,7 @@ The conference has previously been held in these locations:
 
 NixCon 2025 is planned to be held at [OST Rapperswil-Jona SG, Switzerland](https://github.com/nixcon/nixcon-proposals/issues/4) ([Map](https://www.openstreetmap.org/way/34754484)).
 
-These are the organisers: https://github.com/nixcon/2025.nixcon.org/blob/main/src/pages/Organizers.tsx
+These are the organisers: https://2025.nixcon.org/organizers/
 
 Organisers are using:
 - This GitHub issue for general updates: https://github.com/NixOS/org/issues/70
