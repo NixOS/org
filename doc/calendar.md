@@ -10,3 +10,4 @@ These Google accounts have access to manage permissions (and make changes to eve
 
 These Google accounts can only make changes to events:
 - silvan.mosberger@moduscreate.com (@infinisil)
+- jeremyfleischman@gmail.com (@jfly)
