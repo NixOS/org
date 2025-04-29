@@ -38,7 +38,7 @@ Individuals gain trust and status by doing the work. Organisations gain prestige
 
 ### Free software and choice over lock-in
 
-Nix projects are and will always remain [free software](https://www.gnu.org/philosophy/free-sw.en.html).
+Nix projects are and will always remain <!-- xrefcheck: ignore link --> [free software](https://www.gnu.org/philosophy/free-sw.en.html).
 
 We value working together with the broader free software community.
 
