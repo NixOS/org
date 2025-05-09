@@ -155,7 +155,7 @@ After the nomination deadline, the SC can prevent a nominee from becoming a cand
 
 #### Procedure
 
-The election is done using a [proportional representation mode from Condorcet Internet Voting Service (CIVS)](http://web.archive.org/web/20240412235900/https://civs1.civs.us/proportional.html). The recommendation is to use [CIVS](https://civs1.civs.us/) itself, but if CIVS is unavailable, a reasonable alternative proportional representation election implementation is also permitted.
+The election is done using a propotional representation oriented tallying system based on ranked ballots. One option is to use [proportional representation mode from Condorcet Internet Voting Service (CIVS)](http://web.archive.org/web/20240412235900/https://civs1.civs.us/proportional.html), but a reasonable alternative is also permitted.
 
 In any election where seats with different end-of-term dates are available, winning candidates with higher final election rankings are appointed to the longer terms.
 
