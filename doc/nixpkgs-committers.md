@@ -18,4 +18,6 @@ They can be contacted either individually, or through a [group message on Discou
 ## Process
 - The process must be publicly documented (this document)
 - Any change to the process must be unanimously agreed upon by all delegation team members
-- Any change in the list of committers must be publicly documented and agreed upon by all delegation team members
+- Any change in the list of committers must be publicly documented
+- Addition of a committer must be agreed upon by all delegation team members
+- Removal of a committer only requires agreement of a single delegation team member
