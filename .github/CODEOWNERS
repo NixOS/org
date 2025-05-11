@@ -25,6 +25,6 @@
 /doc/values.md @NixOS/steering
 /doc/vault.md @Mic92 @mweinelt @zimbatm
 /doc/constitution.md @NixOS/steering
-/doc/nixpkgs-committers.md @NickCao @jtojnar
+/doc/nixpkgs-committers.md @NickCao @jtojnar @winterqt
 /doc/calendar.md @edolstra @tomberek @fricklerhandwerk
 /doc/nixcon.md @NixOS/steering
