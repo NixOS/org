@@ -11,6 +11,7 @@ Nixpkgs committer delegation team consists of these people:
 
 - [@NickCao](https://github.com/NickCao) ([Matrix](https://matrix.to/#/@nickcao:nichi.co), [Discourse](https://discourse.nixos.org/u/nickcao))
 - [@jtojnar](https://github.com/jtojnar) ([Matrix](https://matrix.to/#/@jtojnar:matrix.org), [Discourse](https://discourse.nixos.org/u/jtojnar))
+- [@winterqt](https://github.com/winterqt) ([Matrix](https://matrix.to/#/@winter:catgirl.cloud), [Discourse](https://discourse.nixos.org/u/winter))
 
 They can be contacted either individually, or through a [group message on Discourse](https://discourse.nixos.org/g/nixpkgs-nominations).
 
