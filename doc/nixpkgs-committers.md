@@ -8,7 +8,7 @@ The [Nixpkgs committer delegation team](#team) is given the responsibility and a
 ## Team
 
 Nixpkgs committer delegation team consists of these people:
-
+<!-- Keep this list in sync with the codeowners of this file! -->
 - [@NickCao](https://github.com/NickCao) ([Matrix](https://matrix.to/#/@nickcao:nichi.co), [Discourse](https://discourse.nixos.org/u/nickcao))
 - [@jtojnar](https://github.com/jtojnar) ([Matrix](https://matrix.to/#/@jtojnar:matrix.org), [Discourse](https://discourse.nixos.org/u/jtojnar))
 - [@winterqt](https://github.com/winterqt) ([Matrix](https://matrix.to/#/@winter:catgirl.cloud), [Discourse](https://discourse.nixos.org/u/winter))
