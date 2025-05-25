@@ -10,7 +10,7 @@ The administration is handled by 2 Moderators, 1-2 representatives from the Stee
 
 Moderators:
 - @lassulus
-- @picnoir
+- @uep
 
 SC representatives:
 - @jtojnar
