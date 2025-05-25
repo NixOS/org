@@ -1,6 +1,7 @@
 # GitHub
 
-The [NixOS GitHub organisation](https://github.com/nixos) and all its repositories is part of the [official resources](./resources.md).
+The [NixOS](https://github.com/nixos) and [NixCon](https://github.com/nixcon) GitHub organisations,
+as well as all their repositories are part of the [official resources](./resources.md).
 
 The org owners documentation is [here](./github-org-owners.md).
 
@@ -37,6 +38,12 @@ The source for https://nix.dev.
 
 The [documentation team](https://nixos.org/community/teams/documentation/) controls this repository.
 
+### NixCon
+
+The repositories under the [the NixCon organisation](https://github.com/nixcon) contain
+the sources of NixCon websites from different years, as well as
+tools and resources used by [NixCon organisers](./nixcon.md).
+
 ### [rfcs](https://github.com/NixOS/rfcs)
 
 The Nix community RFCs, see also [here](./governance.md#rfc-process).
@@ -63,11 +70,11 @@ The [marketing team](https://nixos.org/community/teams/marketing/) controls this
 
 ## Groups
 
-### [nixpkgs-committers](https://github.com/orgs/NixOS/teams/nixpkgs-committers)
+### [NixOS/nixpkgs-committers](https://github.com/orgs/NixOS/teams/nixpkgs-committers)
 
 Documented in [./nixpkgs-committers.md](./nixpkgs-committers.md).
 
-### [nixpkgs-maintainers](https://github.com/orgs/NixOS/teams/nixpkgs-maintainers)
+### [NixOS/nixpkgs-maintainers](https://github.com/orgs/NixOS/teams/nixpkgs-maintainers)
 
 A very large group of contributors established by [RFC 39](https://github.com/NixOS/rfcs/blob/master/rfcs/0039-unprivileged-maintainer-teams.md).
 
