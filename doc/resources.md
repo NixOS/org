@@ -29,9 +29,15 @@ A secondary domain is `nix.dev`, which hosts [the main documentation](https://ni
 See the [infra repository](https://github.com/nixos/infra) for more information.
 To request permissions or changes to the infrastructure, get in touch with the [infrastructure team](https://nixos.org/community/teams/infrastructure/).
 
+[NixCon](./nixcon.md) has a separate domain – `nixos.org` – with subdomains dedicated to
+each individual event (such as [NixCon 2025](https://2025.nixcon.org/)) and various
+conference-related secondary resources.
+
 ## GitHub
 
-The [NixOS GitHub organisation](https://github.com/nixos) and all its repositories.
+- The [NixOS GitHub organisation](https://github.com/nixos) and all its repositories.
+- The [NixCon GitHub organisation](https://github.com/nixcon) and all its repositories.
+
 See [this page](./github.md) for more information.
 
 ## Other third-party accounts
