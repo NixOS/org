@@ -26,12 +26,12 @@ This domain also hosts various other websites and services, such as:
 
 A secondary domain is `nix.dev`, which hosts [the main documentation](https://nix.dev/) ([source](https://github.com/NixOS/nix.dev)).
 
-See the [infra repository](https://github.com/nixos/infra) for more information.
-To request permissions or changes to the infrastructure, get in touch with the [infrastructure team](https://nixos.org/community/teams/infrastructure/).
-
-[NixCon](./nixcon.md) has a separate domain – `nixos.org` – with subdomains dedicated to
+[NixCon](./nixcon.md) has a separate domain – `nixcon.org` – with subdomains dedicated to
 each individual event (such as [NixCon 2025](https://2025.nixcon.org/)) and various
 conference-related secondary resources.
+
+See the [infra repository](https://github.com/nixos/infra) for more information.
+To request permissions or changes to the infrastructure, get in touch with the [infrastructure team](https://nixos.org/community/teams/infrastructure/).
 
 ## GitHub
 
