@@ -42,8 +42,8 @@ See [this page](./github.md) for more information.
 
 ## Other third-party accounts
 
-- [Docker](https://hub.docker.com/u/nixos)
-- [Open collective](https://opencollective.com/nixos)
-- [YouTube](https://www.youtube.com/@NixOS-Foundation)
-- [Twitter](https://twitter.com/nixos_org)
-- [Mastodon](https://chaos.social/@nixos_org)
+- [Docker](https://hub.docker.com/u/nixos) - owner: infra
+- [Open collective](https://opencollective.com/nixos) - owner: foundation
+- [YouTube](https://www.youtube.com/@NixOS-Foundation) - owner: marketing
+- [Twitter](https://twitter.com/nixos_org) - owner: marketing
+- [Mastodon](https://chaos.social/@nixos_org) - owner: marketing
