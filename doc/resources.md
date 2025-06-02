@@ -47,3 +47,5 @@ See [this page](./github.md) for more information.
 - [YouTube](https://www.youtube.com/@NixOS-Foundation)
 - [Twitter](https://twitter.com/nixos_org)
 - [Mastodon](https://chaos.social/@nixos_org)
+- [LinkedIn](https://www.linkedin.com/company/nixos-foundation)
+- [Bluesky](https://bsky.app/profile/nixos-org.bsky.social)
