@@ -1,0 +1,28 @@
+{
+  "id": 6007152,
+  "name": "no-force-push-except-release-team",
+  "target": "branch",
+  "source_type": "Repository",
+  "source": "wolfgangwalther/nixpkgs",
+  "enforcement": "active",
+  "conditions": {
+    "ref_name": {
+      "exclude": [],
+      "include": [
+        "refs/heads/staging*"
+      ]
+    }
+  },
+  "rules": [
+    {
+      "type": "non_fast_forward"
+    }
+  ],
+  "bypass_actors": [
+    {
+      "actor_id": 3620128,
+      "actor_type": "Team",
+      "bypass_mode": "always"
+    }
+  ]
+}

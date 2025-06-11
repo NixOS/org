@@ -1,0 +1,22 @@
+{
+  "id": 6007205,
+  "name": "no-creation",
+  "target": "branch",
+  "source_type": "Repository",
+  "source": "wolfgangwalther/nixpkgs",
+  "enforcement": "active",
+  "conditions": {
+    "ref_name": {
+      "exclude": [],
+      "include": [
+        "refs/heads/main"
+      ]
+    }
+  },
+  "rules": [
+    {
+      "type": "creation"
+    }
+  ],
+  "bypass_actors": []
+}

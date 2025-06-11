@@ -1,0 +1,26 @@
+{
+  "id": 6007056,
+  "name": "no-force-push",
+  "target": "branch",
+  "source_type": "Repository",
+  "source": "wolfgangwalther/nixpkgs",
+  "enforcement": "active",
+  "conditions": {
+    "ref_name": {
+      "exclude": [],
+      "include": [
+        "~DEFAULT_BRANCH",
+        "refs/heads/release*",
+        "refs/heads/nixos-*",
+        "refs/heads/nixpkgs-*",
+        "refs/heads/haskell-updates"
+      ]
+    }
+  },
+  "rules": [
+    {
+      "type": "non_fast_forward"
+    }
+  ],
+  "bypass_actors": []
+}

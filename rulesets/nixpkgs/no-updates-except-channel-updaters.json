@@ -1,0 +1,32 @@
+{
+  "id": 6007273,
+  "name": "no-updates-except-channel-updaters",
+  "target": "branch",
+  "source_type": "Repository",
+  "source": "wolfgangwalther/nixpkgs",
+  "enforcement": "active",
+  "conditions": {
+    "ref_name": {
+      "exclude": [],
+      "include": [
+        "refs/heads/nixos-*",
+        "refs/heads/nixpkgs-*"
+      ]
+    }
+  },
+  "rules": [
+    {
+      "type": "update",
+      "parameters": {
+        "update_allows_fetch_and_merge": false
+      }
+    }
+  ],
+  "bypass_actors": [
+    {
+      "actor_id": 3475569,
+      "actor_type": "Team",
+      "bypass_mode": "always"
+    }
+  ]
+}

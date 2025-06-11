@@ -1,0 +1,29 @@
+{
+  "id": 6007029,
+  "name": "no-delete",
+  "target": "branch",
+  "source_type": "Repository",
+  "source": "wolfgangwalther/nixpkgs",
+  "enforcement": "active",
+  "conditions": {
+    "ref_name": {
+      "exclude": [],
+      "include": [
+        "~DEFAULT_BRANCH",
+        "refs/heads/release*",
+        "refs/heads/staging*",
+        "refs/heads/nixos-*",
+        "refs/heads/nixpkgs-*",
+        "refs/heads/haskell-updates",
+        "refs/heads/r-updates",
+        "refs/heads/python-updates"
+      ]
+    }
+  },
+  "rules": [
+    {
+      "type": "deletion"
+    }
+  ],
+  "bypass_actors": []
+}
