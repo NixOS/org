@@ -11,6 +11,7 @@
 /npins @NixOS/org
 /default.nix @NixOS/org
 /shell.nix @NixOS/org
+/rulesets @NixOS/org
 
 /doc/org-repo.md @NixOS/steering
 /doc/discourse.md @NixOS/steering @mweinelt @picnoir @lassulus @jtojnar @ctheune @dpausp
