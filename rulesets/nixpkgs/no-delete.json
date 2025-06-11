@@ -1,9 +1,9 @@
 {
-  "id": 6007029,
+  "id": 6008908,
   "name": "no-delete",
   "target": "branch",
   "source_type": "Repository",
-  "source": "wolfgangwalther/nixpkgs",
+  "source": "NixOS/nixpkgs",
   "enforcement": "active",
   "conditions": {
     "ref_name": {

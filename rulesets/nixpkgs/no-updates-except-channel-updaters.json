@@ -1,9 +1,9 @@
 {
-  "id": 6007273,
+  "id": 6008921,
   "name": "no-updates-except-channel-updaters",
   "target": "branch",
   "source_type": "Repository",
-  "source": "wolfgangwalther/nixpkgs",
+  "source": "NixOS/nixpkgs",
   "enforcement": "active",
   "conditions": {
     "ref_name": {
@@ -16,10 +16,7 @@
   },
   "rules": [
     {
-      "type": "update",
-      "parameters": {
-        "update_allows_fetch_and_merge": false
-      }
+      "type": "update"
     }
   ],
   "bypass_actors": [

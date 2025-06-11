@@ -1,9 +1,9 @@
 {
-  "id": 6007320,
+  "id": 6008941,
   "name": "require-pull-request-except-release-team",
   "target": "branch",
   "source_type": "Repository",
-  "source": "wolfgangwalther/nixpkgs",
+  "source": "NixOS/nixpkgs",
   "enforcement": "active",
   "conditions": {
     "ref_name": {

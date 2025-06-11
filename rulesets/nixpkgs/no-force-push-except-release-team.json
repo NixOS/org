@@ -1,9 +1,9 @@
 {
-  "id": 6007152,
+  "id": 6008917,
   "name": "no-force-push-except-release-team",
   "target": "branch",
   "source_type": "Repository",
-  "source": "wolfgangwalther/nixpkgs",
+  "source": "NixOS/nixpkgs",
   "enforcement": "active",
   "conditions": {
     "ref_name": {

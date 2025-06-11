@@ -1,9 +1,9 @@
 {
-  "id": 6007056,
+  "id": 6008913,
   "name": "no-force-push",
   "target": "branch",
   "source_type": "Repository",
-  "source": "wolfgangwalther/nixpkgs",
+  "source": "NixOS/nixpkgs",
   "enforcement": "active",
   "conditions": {
     "ref_name": {
