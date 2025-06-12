@@ -18,5 +18,8 @@
       "type": "creation"
     }
   ],
-  "bypass_actors": []
+  "created_at": "2025-06-11T20:44:19.501+02:00",
+  "updated_at": "2025-06-11T20:44:19.501+02:00",
+  "bypass_actors": [],
+  "current_user_can_bypass": "never"
 }

@@ -32,11 +32,14 @@
       }
     }
   ],
+  "created_at": "2025-06-11T20:48:04.174+02:00",
+  "updated_at": "2025-06-11T20:48:04.174+02:00",
   "bypass_actors": [
     {
       "actor_id": 3620128,
       "actor_type": "Team",
       "bypass_mode": "always"
     }
-  ]
+  ],
+  "current_user_can_bypass": "never"
 }
