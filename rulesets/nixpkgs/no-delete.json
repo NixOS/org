@@ -1,0 +1,32 @@
+{
+  "id": 6008908,
+  "name": "no-delete",
+  "target": "branch",
+  "source_type": "Repository",
+  "source": "NixOS/nixpkgs",
+  "enforcement": "active",
+  "conditions": {
+    "ref_name": {
+      "exclude": [],
+      "include": [
+        "~DEFAULT_BRANCH",
+        "refs/heads/release*",
+        "refs/heads/staging*",
+        "refs/heads/nixos-*",
+        "refs/heads/nixpkgs-*",
+        "refs/heads/haskell-updates",
+        "refs/heads/r-updates",
+        "refs/heads/python-updates"
+      ]
+    }
+  },
+  "rules": [
+    {
+      "type": "deletion"
+    }
+  ],
+  "created_at": "2025-06-11T20:45:03.450+02:00",
+  "updated_at": "2025-06-11T20:45:03.450+02:00",
+  "bypass_actors": [],
+  "current_user_can_bypass": "never"
+}
