@@ -68,6 +68,12 @@ The home of the branding guide and media kit.
 
 The [marketing team](https://nixos.org/community/teams/marketing/) controls this repository.
 
+### [surveys](https://github.com/NixOS/surveys)
+
+The home of survey questions, historical data, and processing code.
+
+The [marketing team](https://nixos.org/community/teams/marketing/) controls this repository.
+
 ## Groups
 
 ### [NixOS/nixpkgs-committers](https://github.com/orgs/NixOS/teams/nixpkgs-committers)
