@@ -1,0 +1,29 @@
+{
+  "name": "no-creation-except-release-team",
+  "target": "branch",
+  "source_type": "Repository",
+  "source": "NixOS/nixpkgs",
+  "enforcement": "active",
+  "conditions": {
+    "ref_name": {
+      "exclude": [],
+      "include": [
+        "refs/heads/nixos-*",
+        "refs/heads/nixpkgs-*",
+      ]
+    }
+  },
+  "rules": [
+    {
+      "type": "creation"
+    }
+  ],
+  "bypass_actors": [
+    {
+      "actor_id": 3475569,
+      "actor_type": "Team",
+      "bypass_mode": "always"
+    }
+  ],
+  "current_user_can_bypass": "never"
+}
