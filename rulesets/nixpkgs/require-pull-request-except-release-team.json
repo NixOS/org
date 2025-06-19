@@ -1,0 +1,45 @@
+{
+  "id": 6008941,
+  "name": "require-pull-request-except-release-team",
+  "target": "branch",
+  "source_type": "Repository",
+  "source": "NixOS/nixpkgs",
+  "enforcement": "active",
+  "conditions": {
+    "ref_name": {
+      "exclude": [],
+      "include": [
+        "~DEFAULT_BRANCH",
+        "refs/heads/release*"
+      ]
+    }
+  },
+  "rules": [
+    {
+      "type": "pull_request",
+      "parameters": {
+        "required_approving_review_count": 0,
+        "dismiss_stale_reviews_on_push": false,
+        "require_code_owner_review": false,
+        "require_last_push_approval": false,
+        "required_review_thread_resolution": false,
+        "automatic_copilot_code_review_enabled": false,
+        "allowed_merge_methods": [
+          "merge",
+          "squash",
+          "rebase"
+        ]
+      }
+    }
+  ],
+  "created_at": "2025-06-11T20:48:04.174+02:00",
+  "updated_at": "2025-06-11T20:48:04.174+02:00",
+  "bypass_actors": [
+    {
+      "actor_id": 3620128,
+      "actor_type": "Team",
+      "bypass_mode": "always"
+    }
+  ],
+  "current_user_can_bypass": "never"
+}

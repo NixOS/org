@@ -1,0 +1,29 @@
+{
+  "id": 6008913,
+  "name": "no-force-push",
+  "target": "branch",
+  "source_type": "Repository",
+  "source": "NixOS/nixpkgs",
+  "enforcement": "active",
+  "conditions": {
+    "ref_name": {
+      "exclude": [],
+      "include": [
+        "~DEFAULT_BRANCH",
+        "refs/heads/release*",
+        "refs/heads/nixos-*",
+        "refs/heads/nixpkgs-*",
+        "refs/heads/haskell-updates"
+      ]
+    }
+  },
+  "rules": [
+    {
+      "type": "non_fast_forward"
+    }
+  ],
+  "created_at": "2025-06-11T20:45:33.529+02:00",
+  "updated_at": "2025-06-11T20:45:33.529+02:00",
+  "bypass_actors": [],
+  "current_user_can_bypass": "never"
+}
