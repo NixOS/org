@@ -11,6 +11,7 @@
       "include": [
         "~DEFAULT_BRANCH",
         "refs/heads/release*",
+        "refs/heads/staging*",
         "refs/heads/nixos-*",
         "refs/heads/nixpkgs-*",
         "refs/heads/haskell-updates"
