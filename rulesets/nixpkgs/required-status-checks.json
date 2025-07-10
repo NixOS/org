@@ -1,4 +1,5 @@
 {
+  "id": 6624327,
   "name": "required-status-checks",
   "target": "branch",
   "source_type": "Repository",
@@ -11,7 +12,7 @@
         "~DEFAULT_BRANCH",
         "refs/heads/release*",
         "refs/heads/staging*",
-        "refs/heads/haskell-updates",
+        "refs/heads/haskell-updates"
       ]
     }
   },
@@ -30,6 +31,8 @@
       }
     }
   ],
+  "created_at": "2025-07-10T22:48:00.187+02:00",
+  "updated_at": "2025-07-10T22:48:00.187+02:00",
   "bypass_actors": [
     {
       "actor_id": 203427,
@@ -37,5 +40,5 @@
       "bypass_mode": "always"
     }
   ],
-  "current_user_can_bypass": "never"
+  "current_user_can_bypass": "always"
 }
