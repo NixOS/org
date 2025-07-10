@@ -94,8 +94,8 @@ The following is internal documentation and should not go on the website. For 20
 1. After receiving the email, board respondent replies that the email was received and that they will hear back within about 2 weeks.
 2. SC respondent ensures the SC internally rejects or provisionally approves the sponsor within 1 week.
    - If rejected, SC respondent replies to the sponsor with the rejection message.
-3. If provisionally approved by the SC, SC respondent forwards the name and website of the sponsor to the NixCon orga Matrix room for organiser approval, who have 2 days to issue objections.
+3. If provisionally approved by the SC, SC respondent forwards the name and website of the sponsor to the NixCon organisers, who have 2 days to issue objections.
 4. Within 1 week, the SC respondent checks whether organisers have issued objections, and if so, ensures that the SC internally reevaluates final rejection or approval of the sponsor.
    - If rejected, SC respondent replies to the sponsor with the rejection message.
-5. If accepted, SC informs the board respondent and the organisers in the NixCon orga Matrix room of the sponsor being accepted.
+5. If accepted, SC informs the board respondent and the organisers of the sponsor being accepted.
 6. Board respondent sends follow-up instructions to the sponsor and tracks the status of payment and perk delivery.
