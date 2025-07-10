@@ -7,9 +7,17 @@
   "enforcement": "active",
   "conditions": {
     "ref_name": {
-      "exclude": [],
+      "exclude": [
+        "refs/heads/backport-*",
+        "refs/heads/nixos-*",
+        "refs/heads/nixpkgs-*",
+        "refs/heads/release-*",
+        "refs/heads/revert-**",
+        "refs/heads/staging-*",
+        "refs/heads/wip-*"
+      ],
       "include": [
-        "refs/heads/main"
+        "~ALL"
       ]
     }
   },
