@@ -14,10 +14,10 @@
         "refs/heads/release-*",
         "refs/heads/revert-**",
         "refs/heads/staging-*",
-        "refs/heads/wip-*",
+        "refs/heads/wip-*"
       ],
       "include": [
-        "refs/heads/**"
+        "~ALL"
       ]
     }
   },

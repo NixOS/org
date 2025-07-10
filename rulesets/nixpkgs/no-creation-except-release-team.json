@@ -1,4 +1,5 @@
 {
+  "id": 6624166,
   "name": "no-creation-except-release-team",
   "target": "branch",
   "source_type": "Repository",
@@ -9,7 +10,7 @@
       "exclude": [],
       "include": [
         "refs/heads/release-*",
-        "refs/heads/staging-*",
+        "refs/heads/staging-*"
       ]
     }
   },
@@ -18,6 +19,8 @@
       "type": "creation"
     }
   ],
+  "created_at": "2025-07-10T22:32:36.981+02:00",
+  "updated_at": "2025-07-10T22:32:36.981+02:00",
   "bypass_actors": [
     {
       "actor_id": 3620128,
