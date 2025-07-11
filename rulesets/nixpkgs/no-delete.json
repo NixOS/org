@@ -7,7 +7,14 @@
   "enforcement": "active",
   "conditions": {
     "ref_name": {
-      "exclude": [],
+      "exclude": [
+        "refs/heads/nixos-test-staging",
+        "refs/heads/nixos-test-staging-baseline",
+        "refs/heads/release-18.09-firefox64",
+        "refs/heads/staging-next-xdg-desktop-portal-gnome-dependency",
+        "refs/heads/staging-patchelf",
+        "refs/heads/staging-python"
+      ],
       "include": [
         "~DEFAULT_BRANCH",
         "refs/heads/release*",
