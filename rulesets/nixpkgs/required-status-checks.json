@@ -38,6 +38,11 @@
       "actor_id": 203427,
       "actor_type": "Team",
       "bypass_mode": "always"
+    },
+    {
+      "actor_id": 1075715,
+      "actor_type": "Integration",
+      "bypass_mode": "always"
     }
   ],
   "current_user_can_bypass": "always"
