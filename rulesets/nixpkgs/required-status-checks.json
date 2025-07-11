@@ -10,9 +10,7 @@
       "exclude": [],
       "include": [
         "~DEFAULT_BRANCH",
-        "refs/heads/release*",
-        "refs/heads/staging*",
-        "refs/heads/haskell-updates"
+        "refs/heads/release*"
       ]
     }
   },
