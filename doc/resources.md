@@ -44,6 +44,6 @@ See [this page](./github.md) for more information.
 
 - [Docker](https://hub.docker.com/u/nixos) - owner: infra
 - [Open collective](https://opencollective.com/nixos) - owner: foundation
-- [YouTube](https://www.youtube.com/@NixOS-Foundation) - owner: marketing
+- [YouTube](https://www.youtube.com/@NixOS-Foundation) - Google brand account; owners: @garbas (primary owner), @fricklerhandwerk (owner), @wamirez (manager)
 - [Twitter](https://twitter.com/nixos_org) - owner: marketing
 - [Mastodon](https://chaos.social/@nixos_org) - owner: marketing
