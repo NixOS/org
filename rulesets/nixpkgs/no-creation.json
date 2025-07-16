@@ -12,9 +12,10 @@
         "refs/heads/nixos-*",
         "refs/heads/nixpkgs-*",
         "refs/heads/release-*",
-        "refs/heads/revert-**",
         "refs/heads/staging-*",
-        "refs/heads/wip-*"
+        "refs/heads/wip-*",
+        "refs/heads/revert-*",
+        "refs/heads/revert-*/**"
       ],
       "include": [
         "~ALL"
