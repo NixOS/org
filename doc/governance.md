@@ -6,7 +6,6 @@ The [first election](https://github.com/nixos/SC-election-2024) ran in 2024.
 
 The current SC consists of these members:
 - [@Ericson2314](https://github.com/Ericson2314) (term ends 2026)
-- [@fpletz](https://github.com/fpletz) (term ends 2025)
 - [@Gabriella439](https://github.com/Gabriella439) (term ends 2026)
 - [@jtojnar](https://github.com/jtojnar) (term ends 2026)
 - [@roberth](https://github.com/roberth) (term ends 2026)
