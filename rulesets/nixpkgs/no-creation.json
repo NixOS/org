@@ -17,7 +17,8 @@
         "refs/heads/revert-*",
         "refs/heads/wip-*/**/*",
         "refs/heads/revert-*/**/*",
-        "refs/heads/dependabot/**/*"
+        "refs/heads/dependabot/**/*",
+        "refs/heads/gh-readonly-queue/**/*"
       ],
       "include": [
         "~ALL"
