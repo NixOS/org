@@ -1,20 +1,8 @@
 # Governance
 
 The [Nix Community Values](./values.md) and the [Nix Governance Constitution](./constitution.md) are important documents tracked in this repository.
-The latter describes Steering Committee (SC) and the NixOS Foundation Board.
+The latter describes [Steering Committee (SC)](https://nixos.org/community/teams/steering-committee/) and the [NixOS Foundation Board](https://nixos.org/community/teams/foundation-board/).
 The [first election](https://github.com/nixos/SC-election-2024) ran in 2024.
-
-The current SC consists of these members:
-- [@Ericson2314](https://github.com/Ericson2314) (term ends 2026)
-- [@Gabriella439](https://github.com/Gabriella439) (term ends 2026)
-- [@jtojnar](https://github.com/jtojnar) (term ends 2026)
-- [@roberth](https://github.com/roberth) (term ends 2026)
-- [@tomberek](https://github.com/tomberek) (term ends 2025)
-- [@winterqt](https://github.com/winterqt) (term ends 2025)
-
-The entire SC can be reached via <steering@nixos.org>,
-messaging the [SC's Discourse group](https://discourse.nixos.org/g/steering_committee)
-or by pinging the [@NixOS/steering](https://github.com/orgs/nixos/teams/steering) GitHub team.
 
 ## RFC Process
 
