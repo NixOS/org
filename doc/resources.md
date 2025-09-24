@@ -47,3 +47,7 @@ See [this page](./github.md) for more information.
 - [YouTube](https://www.youtube.com/@NixOS-Foundation) - owner: marketing
 - [Twitter](https://twitter.com/nixos_org) - owner: marketing
 - [Mastodon](https://chaos.social/@nixos_org) - owner: marketing
+<!-- xrefcheck: ignore link -->
+- [LinkedIn](https://www.linkedin.com/company/nixos-foundation/)
+  - Super admins: @infinisil, @ra33it0
+  - Content admins: @raboof, @bryanhonof, @flyfloh
