@@ -10,7 +10,7 @@
       "exclude": [],
       "include": [
         "~DEFAULT_BRANCH",
-        "release-25.05"
+        "refs/heads/release-25.05"
       ]
     }
   },
