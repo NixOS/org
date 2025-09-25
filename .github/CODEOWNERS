@@ -12,6 +12,7 @@
 /default.nix @NixOS/org
 /shell.nix @NixOS/org
 /rulesets @NixOS/org
+/rulesets/nixpkgs @NixOS/nixpkgs-core
 
 /doc/org-repo.md @NixOS/steering
 /doc/discourse.md @NixOS/steering @mweinelt @picnoir @lassulus @jtojnar @ctheune @dpausp
@@ -19,14 +20,15 @@
 /doc/github-org-owners.md @NixOS/steering
 /doc/matrix.md @NixOS/steering
 /doc/moderation.md @NixOS/steering
-/doc/nixos-releases.md @NixOS/steering
+/doc/nixos-releases.md @NixOS/nixpkgs-core
 /doc/resources.md @NixOS/steering
 /doc/mail.md @NixOS/infra
 /doc/governance.md @NixOS/steering
 /doc/values.md @NixOS/steering
 /doc/vault.md @Mic92 @mweinelt @zimbatm
 /doc/constitution.md @NixOS/steering
-/doc/nixpkgs-committers.md @NickCao @jtojnar @winterqt
+/doc/nixpkgs-core.md @NixOS/nixpkgs-core
+/doc/nixpkgs-committers.md @NickCao @jtojnar @winterqt @NixOS/nixpkgs-core
 /doc/calendar.md @edolstra @tomberek @fricklerhandwerk
 /doc/nixcon.md @NixOS/steering
 /doc/hetzner.md @NixOS/infra

@@ -26,6 +26,8 @@ To add a new team to this list, open a PR on the [nixos-homepage repository](htt
 
 ### Nixpkgs
 
+The [Nixpkgs core team](./nixpkgs-core.md) governs Nixpkgs and its teams.
+
 More Nixpkgs-specific teams are declared in the [`maintainers/team-list.nix` file](https://github.com/NixOS/nixpkgs/blob/master/maintainers/team-list.nix), which can be programmatically accessed using `lib.teams`.
 
 To add a new team to this list, open a PR to change it.
