@@ -9,7 +9,8 @@
     "ref_name": {
       "exclude": [],
       "include": [
-        "~DEFAULT_BRANCH"
+        "~DEFAULT_BRANCH",
+        "release-25.05"
       ]
     }
   },
