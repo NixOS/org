@@ -20,6 +20,8 @@ Furthermore, every [Nixpkgs maintainer](https://github.com/NixOS/nixpkgs/tree/ma
 Being a Nixpkgs maintainer doesn't grant any permissions by itself.
 They can however make use of the [Nixpkgs merge bot](https://github.com/NixOS/nixpkgs-merge-bot) in certain cases.
 
+The [Nixpkgs core team](./nixpkgs-core.md) controls this repository.
+
 ### [nix](https://github.com/NixOS/nix)
 
 The Nix language and CLI implementation.
