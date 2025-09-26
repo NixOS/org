@@ -14,7 +14,8 @@
         "refs/heads/nixos-*",
         "refs/heads/nixpkgs-*",
         "refs/heads/haskell-updates",
-        "refs/heads/staging*"
+        "refs/heads/staging*",
+        "refs/heads/batch-with-kernel-updates"
       ]
     }
   },
@@ -24,7 +25,7 @@
     }
   ],
   "created_at": "2025-06-11T14:45:33.529-04:00",
-  "updated_at": "2025-06-11T14:45:33.529-04:00",
+  "updated_at": "2025-09-21T15:58:33.529-04:00",
   "bypass_actors": [],
   "current_user_can_bypass": "never"
 }
