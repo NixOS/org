@@ -1,4 +1,4 @@
-## Nixpkgs core team
+# Nixpkgs core team
 
 The Nixpkgs core team provides leadership for and has authority over Nixpkgs.
 
