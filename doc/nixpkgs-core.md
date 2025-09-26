@@ -1,4 +1,4 @@
-## Nixpkgs core team
+# Nixpkgs core team
 
 The Nixpkgs core team provides leadership for and has authority over Nixpkgs.
 
@@ -8,6 +8,12 @@ The team has the following members:
 - [@emilazy](https://github.com/emilazy)
 - [@K900](https://github.com/K900)
 - [@wolfgangwalther](https://github.com/wolfgangwalther)
+
+## Procedures
+
+1. Team decisions are made by unanimous consensus.
+2. If no more than a single team member is absent for a decision, and there is unanimous consensus among the rest that the decision is uncontroversial, the absent member is not required to reach consensus.
+3. Amendments to these procedures require a team decision, and can never be considered uncontroversial.
 
 ## How to contact the team
 
