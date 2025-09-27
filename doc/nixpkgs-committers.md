@@ -1,6 +1,6 @@
 # Nixpkgs committers
 
-There are over 200 Nixpkgs committers with access to merge any PR.
+There are [200 Nixpkgs committers](https://github.com/NixOS/nixpkgs-committers/tree/main/members) with access to merge any PR.
 To become a Nixpkgs committer, you can apply [in this issue](https://github.com/NixOS/nixpkgs/issues/321665).
 
 The [Nixpkgs committer delegation team](#team) is given the responsibility and authority of changing the list of [Nixpkgs committers](https://github.com/orgs/NixOS/teams/nixpkgs-committers).
