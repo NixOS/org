@@ -14,7 +14,7 @@ Nixpkgs committer delegation team consists of these people:
 - [@jtojnar](https://github.com/jtojnar) ([Matrix](https://matrix.to/#/@jtojnar:matrix.org), [Discourse](https://discourse.nixos.org/u/jtojnar))
 - [@winterqt](https://github.com/winterqt) ([Matrix](https://matrix.to/#/@winter:catgirl.cloud), [Discourse](https://discourse.nixos.org/u/winter))
 
-They can be contacted either individually, or through a [group message on Discourse](https://discourse.nixos.org/g/nixpkgs-nominations).
+They can be contacted either individually, through a [group message on Discourse](https://discourse.nixos.org/g/nixpkgs-nominations), or by pinging the GitHub team [@NixOS/commit-bit-delegation](https://github.com/orgs/NixOS/teams/commit-bit-delegation/).
 
 ## Process
 - The process must be publicly documented (this document)
