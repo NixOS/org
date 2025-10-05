@@ -108,7 +108,7 @@ Deciding that an amendment is not substantial can be done by unanimity among a f
 
 #### Ordinary decisions
 
-Everything within the authority of SC that doesn't require an extraordinary decision can be decided with a simple majority (more than 50%) of a full SC (vacant seats count as abstaining, except when voting for reelection).
+Everything within the authority of SC that doesn't require an extraordinary decision can be decided with a simple majority (more than 50%) of a full SC (vacant seats count as abstaining, [except when voting for reelection](#full-reelections)).
 
 An exception to that is when there is when the [conflict of interest balance](#conflict-of-interest-coi-balance) condition is suspected to be violated.
 In that case, all non-involved currently serving SC members will have a simple majority decision over whether there is a violation.
