@@ -23,6 +23,7 @@
 /doc/nixos-releases.md @NixOS/nixpkgs-core
 /doc/resources.md @NixOS/steering
 /doc/mail.md @NixOS/infra
+/doc/freescout.md @infinisil
 /doc/governance.md @NixOS/steering
 /doc/values.md @NixOS/steering
 /doc/vault.md @Mic92 @mweinelt @zimbatm
