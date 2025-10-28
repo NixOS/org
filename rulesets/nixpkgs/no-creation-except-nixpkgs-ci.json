@@ -1,0 +1,31 @@
+{
+  "id": 9243660,
+  "name": "no-creation-except-nixpkgs-ci",
+  "target": "branch",
+  "source_type": "Repository",
+  "source": "NixOS/nixpkgs",
+  "enforcement": "active",
+  "conditions": {
+    "ref_name": {
+      "exclude": [],
+      "include": [
+        "refs/heads/pr/**/*"
+      ]
+    }
+  },
+  "rules": [
+    {
+      "type": "creation"
+    }
+  ],
+  "created_at": "2025-10-28T09:53:30.124+01:00",
+  "updated_at": "2025-10-28T09:53:30.186+01:00",
+  "bypass_actors": [
+    {
+      "actor_id": 1075715,
+      "actor_type": "Integration",
+      "bypass_mode": "always"
+    }
+  ],
+  "current_user_can_bypass": "never"
+}
