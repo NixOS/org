@@ -6,7 +6,6 @@ The team has the following members:
 <!-- Also keep this in sync with the members of @NixOS/nixpkgs-core! -->
 - [@alyssais](https://github.com/alyssais)
 - [@emilazy](https://github.com/emilazy)
-- [@K900](https://github.com/K900)
 - [@wolfgangwalther](https://github.com/wolfgangwalther)
 
 ## Procedures
