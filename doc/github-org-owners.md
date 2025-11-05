@@ -32,7 +32,7 @@ All org owners can individually take care of implementing:
 - Changes requested by a repository admin that have no impact outside their repository.
 
 Org owners need approval from at least one other org owner to take care of implementing higher-impact changes that are _not controversial_, such as:
-- Administering unmaintained repos.
+- Administering unmaintained repos, such as by:
   - Performing maintenance.
   - Giving commit access to trusted people that offer maintenance.
   - Archiving if appropriate.
