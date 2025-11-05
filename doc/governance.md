@@ -3,6 +3,7 @@
 The [Nix Community Values](./values.md) and the [Nix Governance Constitution](./constitution.md) are important documents tracked in this repository.
 The latter describes [Steering Committee (SC)](https://nixos.org/community/teams/steering-committee/) and the [NixOS Foundation Board](https://nixos.org/community/teams/foundation-board/).
 The [first election](https://github.com/nixos/SC-election-2024) ran in 2024.
+The [second election](https://github.com/nixos/SC-election-2025) ran in 2025.
 
 ## RFC Process
 
