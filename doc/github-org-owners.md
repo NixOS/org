@@ -17,7 +17,7 @@ For any GitHub-related needs, you can reach out to the org owners by either:
 - Messaging in the [Github org owners help desk Matrix room](https://matrix.to/#/%23org_owners:nixos.org).
 
 ### Authority and processes
-This team's role is to manage and unblock users of the NixOS GitHub organization.
+This team's role is to manage and unblock users of the [NixOS GitHub organization](https://github.com/NixOS).
 They have autonomy to handle small day-to-day tasks and the expectation they will escalate bigger decisions to the Steering Committee.
 
 All org owners can individually take care of implementing:
