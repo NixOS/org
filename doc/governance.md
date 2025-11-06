@@ -7,7 +7,8 @@ The [second election](https://github.com/nixos/SC-election-2025) ran in 2025.
 
 ## RFC Process
 
-The Nix RFC (Request For Comments) process exists to establish wider consensus for substantial changes. See the [rfcs repository](https://github.com/NixOS/rfcs) for more information.
+The Nix RFC (Request For Comments) process exists to establish wider consensus for substantial changes.
+See the [rfcs repository](https://github.com/NixOS/rfcs) for more information.
 
 ## Teams
 

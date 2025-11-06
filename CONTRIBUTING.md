@@ -18,3 +18,12 @@ To mitigate this, all people with [code owner entries](./.github/CODEOWNERS) for
 This is done by [automatically opening an issue in regular intervals](./.github/workflows/review.yml) to ping all code owners.
 
 This serves as an initial fallback, but more automatic approaches could be implemented in the future, e.g. by scraping and comparing the state.
+
+## Drafting notes
+
+Text is written in Markdown.
+
+For the sake of human-readable diffs and patches, each line must contain at most one sentence.
+Long sentances may be broken into multiple lines at points of sub-sentance punctuation (e.g. comma, em-dash, semicolon) boundaries.
+Markdown explicitly ignores the location of line-breaks within paragraphs, so this convention does not affect the meaning of the text.
+(This rule is an instance of the general principle of "semantic line breaks", discussed at greater length at <https://sembr.org/>.)

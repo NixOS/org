@@ -84,15 +84,18 @@ In a conversation, the most important actions in the top bar are:
   - Assigning sends an email to the assignee
 - Flag icon: Mark as:
   - Active (default): Waiting on you/assignee
-  - Pending: Waiting on contact. Getting a reply marks it as active and sends a notification to the assignee
-  - Closed: Not actionable. Getting a reply marks it as active and sends a notification to the assignee
+  - Pending: Waiting on contact.
+    Getting a reply marks it as active and sends a notification to the assignee
+  - Closed: Not actionable.
+    Getting a reply marks it as active and sends a notification to the assignee
   - Spam
 
 The mail icon allows you to compose and send a new email to start a conversation.
 
 ### Extra
 
-Freescout has a [lot of modules](https://freescout.net/modules/) to extend its functionality. The following modules are currently installed:
+Freescout has a [lot of modules](https://freescout.net/modules/) to extend its functionality.
+The following modules are currently installed:
 - [Extended Editor](https://freescout.net/module/extended-editor/)
 - [Teams](https://freescout.net/module/teams/)
 
