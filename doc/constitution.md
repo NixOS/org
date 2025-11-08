@@ -106,8 +106,7 @@ An exception to that is when there is when the [conflict of interest balance](#c
 ### Composition and Appointment
 
 The SC consists of 7 elected members.
-Regular elections are once a year, with half (alternating rounding every year) of the seats up for election,
-such that each member holds a seat for one term of at most 2 years before it is up for election again.
+Regular elections are once a year, with each member holding a seat for one term of 1 year before it is up for election again.
 Members can at most serve two consecutive terms. There is no lifetime maximum.
 
 The previous SC appoints an Election Committee (EC) of at least 3 people to administer the election. If the SC cannot come to supermajority agreement on the list of EC members, they will elect an EC using the same tallying system as the previous SC election, where only SC members can vote.
@@ -161,7 +160,6 @@ In any election where seats with different end-of-term dates are available, winn
 
 #### Special considerations for the first SC election
 
-- To stagger the terms, the first election will appoint half the members rounded up with 2-year terms and the remaining members with 1-year terms.
 - The EC for the first election will be the members of the [Nix Constitutional Assembly (NCA)](https://github.com/nixos/nix-constitutional-assembly?tab=readme-ov-file#members), which are thus ineligible to be elected for the first SC
 - All nominees become candidates for the first election, because there's no existing SC that would decide over disqualifying candidates.
 - And to help the first elected SC establish itself, members of the NCA are integrated into the SC as non-voting members for 6 months after the appointment. The NCA ceases to exist at the moment of SC appointment.
@@ -174,11 +172,11 @@ Furthermore, there is a hard maximum of two members with the same CoI at any tim
 
 #### Special Elections
 
-In the event of a resignation or other loss of a steering committee member (including a [removal for conduct](#removal-for-conduct)), a special election for that position may be held if the SC deems it necessary, or the SC does not have half of the normal size. Otherwise, the missing positions are assumed to be abstaining from all the SC votes. A committee member elected in a special election will serve out the remainder of the term of the person they are replacing, regardless of the length of that remainder.
+In the event of a resignation or other loss of a steering committee member (including a [removal for conduct](#removal-for-conduct)), a special election for that position may be held if the SC deems it necessary, or the SC does not have half of the normal size. Otherwise, the missing positions are assumed to be abstaining from all the SC votes. A committee member elected in a special election will serve out the remainder of the term of the person they are replacing.
 
 #### Full Reelections
 
-A simple majority within the SC may call a reelection of the entire SC based on perceived loss of confidence. In this case, it also has to be decided whether this election is considered a special election for the remainders of all the corresponding terms, or an initial election for full 2-year terms for half of the seats rounded up and 1-year half-terms for the remaining seats.
+A simple majority within the SC may call a reelection of the entire SC based on perceived loss of confidence. In this case, it also has to be decided whether this election is considered a special election for the remainders of all the corresponding terms, or an initial election for full 1-year terms.
 
 ### Removal for conduct
 
