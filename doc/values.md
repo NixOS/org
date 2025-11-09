@@ -59,13 +59,3 @@ We build trust primarily by working together on Nix projects.
 We are a global community, and disseminating information and maintaining processes can be difficult. We are also a large project with a lot of hard and repetitive work. Therefore, we value automation over toil, while recognizing that not all toil can be automated. Automation reduces toil, but people are still accountable. Adding new toil needs a very strong justification.
 
 We build automation and processes that make the best use of our contributors' limited time and energy.
-
-### Stable evolution over stagnation or chaos
-
-Openness to new ideas and evolution is part of what made Nix great. We continue to foster that evolution while encouraging development of re-usable building blocks and well-defined, stable interfaces.
-
-We value experimenting with designs and concepts, and folding successful experiments back into continuous improvement for stable components.
-
-The larger the impact an action has, the more care and discussion is warranted before taking the action.
-
-Our leaders have a duty to find, support, and promote new contributors — and eventually step aside for new leaders.
