@@ -13,7 +13,8 @@
         "refs/heads/staging",
         "refs/heads/staging-next",
         "refs/heads/staging-25.05",
-        "refs/heads/staging-next-25.05"
+        "refs/heads/staging-next-25.05",
+        "refs/heads/staging-nixos"
       ]
     }
   },
