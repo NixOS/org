@@ -95,7 +95,9 @@ Furthermore, the SC decides on the Election Committee (EC) with a 2/3 supermajor
 
 Disqualifications of candidates in an election requires supermajority among the currently serving SC members.
 
-Substantial amendments to the Nix Community Values require 90% agreement in a poll among eligible voters. Deciding that an amendment is not substantial can be done by unanimity among a full SC.
+Substantial amendments to the Nix Community Values require 90% agreement in a poll among eligible voters.
+Substantial amendments to this paragraph of the constitution carry the same requirement, in addition to any other constitutional requirements for making that change.
+Deciding that an amendment of either document is not substantial can be done by unanimity among a full SC.
 
 #### Ordinary decisions
 
