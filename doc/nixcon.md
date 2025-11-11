@@ -43,7 +43,9 @@ This should be displayed on the website.
 - Possibility to distribute your own stickers/swag/merch at the venue
 - Tickets: 1+ corporate tickets[^1]
 
-[^1]: One corporate ticket per 1024 EUR. Only corporate tickets come with company name/logo recognition on the badge. Corporate tickets can also be bought individually when ticket sales open.
+[^1]: One corporate ticket per 1024 EUR.
+  Only corporate tickets come with company name/logo recognition on the badge.
+  Corporate tickets can also be bought individually when ticket sales open.
 
 ### Silver (2048+ EUR)
 - Everything from Bronze
@@ -72,7 +74,8 @@ This should be displayed on the website.
 
 ### General info
 - Sponsors can be tier-limited or rejected by the Nix Steering Committee for any reason.
-- The outline of all sponsor content must be disclosed in advance. We reserve the right to reject content.
+- The outline of all sponsor content must be disclosed in advance.
+  We reserve the right to reject content.
 - Visibility priority is given according to tiers and donation amount.
 - The sponsor can selectively abstain from perks.
 - Surplus funds will be used to support official Nix projects.
@@ -87,7 +90,8 @@ Send an email to sponsor@nixos.org (which will forward to both the Nix Steering 
 
 ## Sponsorship process
 
-The following is internal documentation and should not go on the website. For 2025 it involves the following respondents:
+The following is internal documentation and should not go on the website.
+For 2025 it involves the following respondents:
 - Board respondent: @ra33it0 (deputy: @infinisil)
 - SC respondent: @tomberek (deputy: @winterqt)
 
