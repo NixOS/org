@@ -12,22 +12,11 @@ The conference has previously been held in these locations:
 - 2022: Paris (France), https://2022.nixcon.org/
 - 2023: Darmstadt (Germany), https://2023.nixcon.org/
 - 2024: Berlin (Germany), https://2024.nixcon.org/
+- 2025: Rapperswil-Jona (Switzerland), https://2025.nixcon.org/
 
-## NixCon 2025: Rapperswil-Jona (Switzerland)
+## NixCon 2026
 
-NixCon 2025 is planned to be held at [OST Rapperswil-Jona SG, Switzerland](https://github.com/nixcon/nixcon-proposals/issues/4) ([Map](https://www.openstreetmap.org/way/34754484)).
-
-These are the organisers: https://2025.nixcon.org/organizers/
-
-Organisers are using:
-- This GitHub issue for general updates: https://github.com/NixOS/org/issues/70
-- This Matrix room for async discussions: [#nixcon2025-orga:lassul.us](https://matrix.to/#/%23nixcon2025-orga:lassul.us)
-- This alias-only Email address: <nixcon@nixos.org>
-- This GitHub repository to host the website: https://github.com/nixcon/2025.nixcon.org/
-
-If the organisers cannot reach consensus on important decisions,
-they are escalated to the Steering Committee.
-Decisions relating to sponsorships are always escalated to the Steering Committee.
+NixCon 2026 is likely to happen but no team has yet been assembled to make that a reality. [Contact the steering committee](mailto:steering@nixos.org) if you'd like to help!
 
 ## Sponsorship tiers
 
