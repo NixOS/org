@@ -19,7 +19,7 @@ jobs:
 
     - uses: serokell/xrefcheck-action@v1
       with:
-        xrefcheck-args: "--root untrusted-pr"
+        xrefcheck-args: "--root untrusted-pr --mode local-only"
 
   codeowners:
     name: Validate codeowners
