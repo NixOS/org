@@ -98,5 +98,6 @@ Freescout has a [lot of modules](https://freescout.net/modules/) to extend its f
 The following modules are currently installed:
 - [Extended Editor](https://freescout.net/module/extended-editor/)
 - [Teams](https://freescout.net/module/teams/)
+- [Email Commands](https://freescout.net/module/email-commands/)
 
 Feel free to request additional modules by adding it to the above list and opening a PR.
