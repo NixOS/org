@@ -218,8 +218,12 @@ If it is impossible to find sufficient members to resign, all members with that 
 
 #### Special Elections
 
-In the event of a resignation or other loss of a steering committee member (including a [removal for conduct](#removal-for-conduct)), a special election for that seat may be held if the SC deems it necessary, or the SC does not have half of the normal size.
+In the event of resignations or other loss of steering committee members (including [removals for conduct](#removal-for-conduct)), the SC would have less than all 7 seats filled.
+
+When one or more seats are vacant, a special election may be held for those vacant seats.
 A committee member elected in a special election will serve out the remainder of the term of the person they are replacing, regardless of the length of that remainder.
+
+A special election for vacant seats may be held if the SC deems it necessary, or the SC does not have half of the normal size.
 
 #### Full Reelections
 
