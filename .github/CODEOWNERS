@@ -28,6 +28,7 @@
 /doc/values.md @NixOS/steering
 /doc/vault.md @Mic92 @mweinelt @zimbatm
 /doc/constitution.md @NixOS/steering
+/doc/constitution-commentary.md @NixOS/steering
 /doc/nixpkgs-core.md @NixOS/nixpkgs-core
 /doc/nixpkgs-committers.md @NickCao @jtojnar @winterqt @NixOS/nixpkgs-core
 /doc/calendar.md @edolstra @tomberek @fricklerhandwerk
