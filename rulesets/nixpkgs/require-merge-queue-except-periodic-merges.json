@@ -14,7 +14,9 @@
         "refs/heads/staging-next",
         "refs/heads/staging-25.05",
         "refs/heads/staging-next-25.05",
-        "refs/heads/staging-nixos"
+        "refs/heads/staging-nixos",
+        "refs/heads/staging-next-25.11",
+        "refs/heads/staging-25.11"
       ]
     }
   },
