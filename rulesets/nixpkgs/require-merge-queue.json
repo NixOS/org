@@ -34,6 +34,11 @@
       "actor_id": 203427,
       "actor_type": "Team",
       "bypass_mode": "pull_request"
+    },
+    {
+      "actor_id": 3620128,
+      "actor_type": "Team",
+      "bypass_mode": "always"
     }
   ],
   "current_user_can_bypass": "pull_requests_only"
