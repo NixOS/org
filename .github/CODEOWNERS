@@ -21,6 +21,7 @@
 /doc/matrix.md @NixOS/steering
 /doc/moderation.md @NixOS/steering
 /doc/nixos-releases.md @NixOS/nixpkgs-core
+/doc/npmjs.md @djacu @thilobillerbeck
 /doc/resources.md @NixOS/steering
 /doc/mail.md @NixOS/infra
 /doc/freescout.md @infinisil
