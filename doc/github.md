@@ -13,7 +13,7 @@ There are many repositories, but these are some of the most important ones.
 
 The Nix package collection and NixOS.
 
-Over 200 people have commit access, which is managed by the [Nixpkgs committer delegation team](./nixpkgs-committers.md).
+Over 200 people have commit access, which is managed by the [Nixpkgs core team](./nixpkgs-committers.md).
 
 Furthermore, every [Nixpkgs maintainer](https://github.com/NixOS/nixpkgs/tree/master/maintainers) is part of the organisation, such that they can be requested as a reviewer.
 
