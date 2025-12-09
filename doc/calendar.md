@@ -4,13 +4,11 @@ There is [this official Google Calendar](https://calendar.google.com/calendar/u/
 
 These Google accounts have access to manage permissions (and make changes to events):
 <!-- Keep this list in sync with the codeowners of this file! -->
-- edolstra@gmail.com (@edolstra)
 - tomberek@gmail.com (@tomberek)
-- valentin.gagarin@gmail.com (@fricklerhandwerk)
 - cafkafk.nixos@gmail.com (@cafkafk)
+- silvan.mosberger@moduscreate.com (@infinisil)
 
 These Google accounts can only make changes to events:
-- silvan.mosberger@moduscreate.com (@infinisil)
 - jeremyfleischman@gmail.com (@jfly)
 - daniel.n.baker@gmail.com (@djacu)
 - @mweinelt
