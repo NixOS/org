@@ -1,35 +1,35 @@
 # See doc/org-repo.md
 
-/README.md @NixOS/org
-/CONTRIBUTING.md @NixOS/org
-/LICENSE @NixOS/org
+/README.md @NixOS/steering @NixOS/org
+/CONTRIBUTING.md @NixOS/steering @NixOS/org
+/LICENSE @NixOS/steering @NixOS/org
 
-/.gitignore @NixOS/org
-/.github/CODEOWNERS @NixOS/org
-/.github/workflows @NixOS/org
-/scripts @NixOS/org
-/npins @NixOS/org
-/default.nix @NixOS/org
-/shell.nix @NixOS/org
-/rulesets @NixOS/org
-/rulesets/nixpkgs @NixOS/nixpkgs-core
+/.gitignore @NixOS/steering @NixOS/org
+/.github/CODEOWNERS @NixOS/steering @NixOS/org
+/.github/workflows @NixOS/steering @NixOS/org
+/scripts @NixOS/steering @NixOS/org
+/npins @NixOS/steering @NixOS/org
+/default.nix @NixOS/steering @NixOS/org
+/shell.nix @NixOS/steering @NixOS/org
+/rulesets @NixOS/steering @NixOS/org
+/rulesets/nixpkgs @NixOS/steering @NixOS/nixpkgs-core
 
 /doc/org-repo.md @NixOS/steering
 /doc/discourse.md @NixOS/steering @mweinelt @lassulus @jtojnar @ctheune @dpausp
-/doc/github.md @NixOS/org
+/doc/github.md @NixOS/steering @NixOS/org
 /doc/github-org-owners.md @NixOS/steering
 /doc/matrix.md @NixOS/steering
 /doc/moderation.md @NixOS/steering
-/doc/nixos-releases.md @NixOS/nixpkgs-core
+/doc/nixos-releases.md @NixOS/steering @NixOS/nixpkgs-core
 /doc/resources.md @NixOS/steering
-/doc/mail.md @NixOS/infra
-/doc/freescout.md @infinisil
+/doc/mail.md @NixOS/steering @NixOS/infra
+/doc/freescout.md @NixOS/steering @infinisil
 /doc/governance.md @NixOS/steering
 /doc/values.md @NixOS/steering
-/doc/vault.md @Mic92 @mweinelt @zimbatm
+/doc/vault.md @NixOS/steering @Mic92 @mweinelt @zimbatm
 /doc/constitution.md @NixOS/steering
-/doc/nixpkgs-core.md @NixOS/nixpkgs-core
-/doc/nixpkgs-committers.md @NixOS/nixpkgs-core
-/doc/calendar.md @edolstra @tomberek @fricklerhandwerk
+/doc/nixpkgs-core.md @NixOS/steering @NixOS/nixpkgs-core
+/doc/nixpkgs-committers.md @NixOS/steering @NixOS/nixpkgs-core
+/doc/calendar.md @NixOS/steering @edolstra @tomberek @fricklerhandwerk
 /doc/nixcon.md @NixOS/steering
-/doc/hetzner.md @NixOS/infra
+/doc/hetzner.md @NixOS/steering @NixOS/infra
