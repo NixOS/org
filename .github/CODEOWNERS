@@ -30,6 +30,6 @@
 /doc/constitution.md @NixOS/steering
 /doc/nixpkgs-core.md @NixOS/nixpkgs-core
 /doc/nixpkgs-committers.md @NixOS/nixpkgs-core
-/doc/calendar.md @edolstra @tomberek @fricklerhandwerk @cafkafk
+/doc/calendar.md @tomberek @cafkafk @infinisil
 /doc/nixcon.md @NixOS/steering
 /doc/hetzner.md @NixOS/infra
