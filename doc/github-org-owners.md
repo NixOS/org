@@ -54,3 +54,4 @@ Org owners do not have authority to make other changes.
 - Escalate requests outside the given authority to the Steering Committee.
 - Maintain the [GitHub organisation documentation](./github.md).
 - Act as janitor for this repository.
+- [Add GitHub Enterprise licenses](https://github.com/enterprises/nixos/licensing) when running out of them
