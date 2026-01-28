@@ -13,10 +13,11 @@ The conference has previously been held in these locations:
 - 2023: Darmstadt (Germany), https://2023.nixcon.org/
 - 2024: Berlin (Germany), https://2024.nixcon.org/
 - 2025: Rapperswil-Jona (Switzerland), https://2025.nixcon.org/
+- 2026: To be determined, https://2026.nixcon.org
 
-## NixCon 2026
+## NixCon 2027
 
-NixCon 2026 is likely to happen but no team has yet been assembled to make that a reality. [Contact the steering committee](mailto:steering@nixos.org) if you'd like to help!
+NixCon 2027 is likely to happen but no team has yet been assembled to make that a reality. [Contact the steering committee](mailto:steering@nixos.org) if you'd like to help!
 
 ## Sponsorship tiers
 
