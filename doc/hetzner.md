@@ -12,3 +12,4 @@ Hetzner Cloud project named `nixpkgs-security-tracker` with ID `3668536`.
 The project members are:
 - foundation@nixos.org as an owner
 - nixos@dgrig.com (@erethon) as an admin
+- valentin.gagarin@tweag.io (@fricklerhandwerk) as an admin
