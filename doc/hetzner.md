@@ -26,7 +26,6 @@ Project members:
 The official wiki instance at [https://wiki.nixos.org].
 
 Project members:
-- [@JulienMalka](https://github.com/JulienMalka) admin
 - [@lassulus](https://github.com/lassulus) admin
 - [@Mic92](https://github.com/Mic92) admin
 - [@vcunat](https://github.com/vcunat) admin
