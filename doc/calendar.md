@@ -12,3 +12,4 @@ These Google accounts can only make changes to events:
 - jeremyfleischman@gmail.com (@jfly)
 - daniel.n.baker@gmail.com (@djacu)
 - @mweinelt
+- ners.nixos@gmail.com (@ners)
