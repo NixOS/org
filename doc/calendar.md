@@ -6,7 +6,7 @@ These Google accounts have access to manage permissions (and make changes to eve
 <!-- Keep this list in sync with the codeowners of this file! -->
 - tomberek@gmail.com (@tomberek)
 - cafkafk.nixos@gmail.com (@cafkafk)
-- silvan.mosberger@moduscreate.com (@infinisil)
+- google@infinisil.com (@infinisil)
 
 These Google accounts can only make changes to events:
 - jeremyfleischman@gmail.com (@jfly)
