@@ -8,7 +8,7 @@ You can request a shared inbox for your team, or changes to an existing inbox by
 
 For a new shared inbox, make sure to include:
 - Team name (will be used in email footer):
-- Email address: <email-handle>@nixos.org
+- Email address: \<email-handle\>@nixos.org
 
 <details><summary>@infinisil perform these steps to set up a new shared inbox:</summary>
 
@@ -99,5 +99,6 @@ The following modules are currently installed:
 - [Extended Editor](https://freescout.net/module/extended-editor/)
 - [Teams](https://freescout.net/module/teams/)
 - [Email Commands](https://freescout.net/module/email-commands/)
+- [Workflows](https://freescout.net/module/workflows/)
 
 Feel free to request additional modules by adding it to the above list and opening a PR.
