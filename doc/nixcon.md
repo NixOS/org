@@ -68,10 +68,10 @@ Send an email to board@nixos.org with:
 
 The following is internal documentation and should not go on the website.
 
-In order to facilitate sponsorships, the board, the SC and the NixCon organisers should be in a private channel.
+In order to facilitate sponsorships, the board, the SC, NixCon organisers and any NixCon volunteers with responsibilities should be in a private channel.
 
 1. When receiving a sponsor request, the board replies with a confirmation and forwards the request to the private channel
-2. The organisers and SC can discuss the request, with the SC making the call to approve or reject (majority vote)
+2. The channel members can discuss the request, with the SC making the call to approve or reject (majority vote)
    - If rejected, the board will let the sponsor know
 3. If accepted, the board sends follow-up instructions to the sponsor
 4. Once the sponsor payment is confirmed, the board connects the sponsor to the organisers for perk delivery
