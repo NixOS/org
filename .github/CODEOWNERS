@@ -33,3 +33,5 @@
 /doc/calendar.md @tomberek @cafkafk @infinisil
 /doc/nixcon.md @NixOS/steering
 /doc/hetzner.md @NixOS/infra
+
+/proposals @NixOS/foundation @NixOS/steering
