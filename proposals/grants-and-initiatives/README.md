@@ -41,14 +41,9 @@ A grant wave is 3 months long, comprised of two phases, and executed by the boar
 - Feedback phase (1.5 months): Collection of feedback and funds
   - Feedback from stakeholders can be discussed and acted upon
   - Sign initiative funding contracts with funding companies wanting to submit funds for specific proposals
-- Wave end: SC decides which proposals get funded, while proritising the agenda, which are then merged to signal that the proposal is accepted for funding and the work can start
+- Wave end: SC decides which proposals get funded, while proritising the agenda and satisfying the [SC's evaluation criteria and process](#sc-evaluation-criteria-and-process), which are then merged to signal that the proposal is accepted for funding and the work can start
+  - The board ensures standard legal requirements
   - Standard rejection message that hints towards alternative funding partners
-
-### Acceptance criteria
-
-Beyond standard legal requirements, the grant proposals must:
-- Have well-defined scope and milestones
-- Have a team that the SC is confident in being able to deliver by showing previous evidence of that
 
 ### Milestone evaluation
 
@@ -67,7 +62,8 @@ After grant proposals are kicked off, the applicants are expected to do the work
 - Establish a process for going into contracts with companies to supply funding for specific purposes, with a guarantee that the funding (without an additional 10% management overhead) will be used for the stated purpose, and that if not all of the funding could be used as such, the rest is repurposed according to the funder companies wishes.
   - There is a 10% management overhead that will not be allocated to the initiative funding.
   - The minimum required funding is 1000 EUR (+10% overhead, excl. VAT).
-  - Only companies that the SC approves of will be considered.
+  - The [SC's evaluation criteria and process](#sc-evaluation-criteria-and-process) have to be met
+  - The board ensures standard legal requirements
 - Create a page on the website that showcases a list of efforts that are looking for funding
   - This includes team-submitted initiatives and grant proposals from the current feedback phase
     - Official teams can submit initiatives by creating a PR against the nixos-homepage repo, which is reviewed by the board/SC before merged
@@ -80,3 +76,20 @@ After grant proposals are kicked off, the applicants are expected to do the work
 ![](./initiatives.svg)
 
 ([source](https://excalidraw.com/#json=xPRvVNuVKd2W3-yUpJLcg,a3QQ56AVTOv1E-xQ9-mfbw), make sure to update the source link when changing anything)
+
+## SC evaluation criteria and process
+
+To make the SC's funding decisions consistent, reviewable, and defensible, this sets out the criteria the SC evaluates against and how it records each one.
+
+In addition to the existing requirements, the SC weighs whether a funder or proposal could harm the project, and whether the work being funded is genuinely useful.
+
+Criteria under consideration include
+- Reputational, financial, or moral harm to the project.
+- Applicability and usefulness, whether consensus from relevant stakeholders exists or is needed, and whether the SC would be needed to shepherd the effort.
+- Reduce risk of failure, such as by ensuring sufficient milestone granularity, feasability, and considering history of completion or non-completion by the parties involved.
+- Opportunity cost of allocating funding here versus elsewhere, and a baseline bar for the work being worth the funding.
+- Conflicts of interest among the funder, the proposal, the relevant governing parties, or the affected areas of work.
+
+The SC can also set criteria in advance that rule out cases such as specific categories, projects, funders, recipients, where the likely harm outweighs the benefit. These standing criteria are reviewed from time to time and can be added or lifted the same way. The SC will also revisit a standing criterion when the facts that motivated it have shifted substantially.
+
+SC members record and own their reasoning for every decision, alongside the SC's unified reasoning, and may approve or decline on any of these grounds. The SC refines the criteria as it learns, including when a funded effort ends up harming the ecosystem, so the decisions that follow are sharper.
