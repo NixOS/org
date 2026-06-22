@@ -32,7 +32,7 @@ A grant wave is 3 months long, comprised of two phases, and executed by the boar
     - In addition to the funding directly available to the grant proposals, internally an extra 5% is budgeted for grant evaluators
   - Decided by the SC: The agenda that will be prioritised for this wave
 - Proposal phase (1.5 months): Anybody can write a grant proposal by submitting a PR to a repository.
-  - Proposals should primarily include the team (1+ persons, 1 contact person) to do the work, the milestones, timeline, the amount needed and the recipient of the funds (can be individuals or companies)
+  - Proposals should primarily include the team (1+ persons, 1 contact person) to do the work, the milestones, timeline, the amount needed and the recipient of the funds (must be a company, can be self-proprietorship)
     - Proposals may also be for non-official projects
 - Wave midpoint: Close proposal submissions, announce the feedback phase and reach out to:
   - Various stakeholders for feedback, including teams or individuals
@@ -97,3 +97,8 @@ Criteria under consideration include
 The SC can also set criteria in advance that rule out cases such as specific categories, projects, funders, recipients, where the likely harm outweighs the benefit. These standing criteria are reviewed from time to time and can be added or lifted the same way. The SC will also revisit a standing criterion when the facts that motivated it have shifted substantially.
 
 SC members record and own their reasoning for every decision, alongside the SC's unified reasoning, and may approve or decline on any of these grounds. The SC refines the criteria as it learns, including when a funded effort ends up harming the ecosystem, so the decisions that follow are sharper.
+
+# Considerations
+
+- Why can only businesses (including self-proprietorships) receive grant funding?
+  - Because sending funding to non-business entities is legally more tricky to get right. For now we need to keep the setup as simple as possible. We may be able to lift this restriction in the future.
