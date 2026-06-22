@@ -35,7 +35,7 @@ A grant wave is 3 months long, comprised of two phases, and executed by the boar
   - Proposals should primarily include the team (1+ persons, 1 contact person) to do the work, the milestones, timeline, the amount needed and the recipient of the funds (must be a company, can be self-proprietorship)
     - Proposals may also be for non-official projects
 - Wave midpoint: Close proposal submissions, announce the feedback phase and reach out to:
-  - Various stakeholders for feedback, including teams or individuals
+  - Various stakeholders for feedback, including authoritative community teams or individuals
   - Companies for the opportunity to submit extra funding for specific proposals (via initiative funding)
     - Also mention team initiatives, same as on the website
 - Feedback phase (1.5 months): Collection of feedback and funds
