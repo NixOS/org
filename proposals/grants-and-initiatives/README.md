@@ -29,6 +29,7 @@ A grant wave is 3 months long, comprised of two phases, and executed by the boar
 
 - Wave start: Widely announce the new wave, including:
   - Decided by the board: how much funds (and how they're ear-marked, if at all) are available to be allocated. This generally includes part of the income and ear-marked funds.
+    - In addition to the funding directly available to the grant proposals, internally an extra 5% is budgeted for grant evaluators
   - Decided by the SC: The agenda that will be prioritised for this wave
 - Proposal phase (1.5 months): Anybody can write a grant proposal by submitting a PR to a repository.
   - Proposals should primarily include the team to do the work, the milestones, timeline, the amount needed and the recipient of the funds (can be individuals or companies)
@@ -49,9 +50,12 @@ A grant wave is 3 months long, comprised of two phases, and executed by the boar
 
 After grant proposals are kicked off, the applicants are expected to do the work and follow up after completing each milestone with detailed reports submitted as a PRs to the evaluation repo. An appointed evaluator will evaluate the work, request changes if necessary, and give approval if satisfactory, in which case the applicants will be paid.
 
-- The board/SC trusts the evaluators to do the evaluation properly
+- The evaluator is appointed from a list of trusted community individuals that have agreed to being evaluators
+  - Changes to this list are decided by the SC
+- The board picks an evaluator from the list
 - Evaluators are required to submit an evaluation report including deliverables, evaluation notes and approval decision
-- Evaluators get 5% of the milestone amount
+- Evaluators get 5% of each milestone amount for its evaluation, independent of whether the work is passing or not
+  - The 5% is budgeted internally by the foundation
 
 ![](./waves.svg)
 
@@ -59,14 +63,15 @@ After grant proposals are kicked off, the applicants are expected to do the work
 
 ## Initiative funding
 
-- Establish a process for going into contracts with companies to supply funding for specific purposes, with a guarantee that the funding (without an additional 10% management overhead) will be used for the stated purpose, and that if not all of the funding could be used as such, the rest is repurposed according to the funder companies wishes.
-  - There is a 10% management overhead that will not be allocated to the initiative funding.
-  - The minimum required funding is 1000 EUR (+10% overhead, excl. VAT).
+- Establish a process for going into contracts with companies to supply funding for specific purposes, with a guarantee that the funding (without an additional 10%/15% overhead) will be used for the stated purpose, and that if not all of the funding could be used as such, the rest is repurposed according to the funder companies wishes.
+  - The minimum required funding is 1000 EUR (+10%/15% overhead, excl. VAT).
   - The [SC's evaluation criteria and process](#sc-evaluation-criteria-and-process) have to be met
   - The board ensures standard legal requirements
+  - This can be used for team-submitted initiatives (see below) and grant proposals from the current feedback phase
+  - There is always a 10% management overhead that will not be allocated to the initiative funding
+    - For grant funding, there is an addition 5% overhead for evaluator funding
 - Create a page on the website that showcases a list of efforts that are looking for funding
-  - This includes team-submitted initiatives and grant proposals from the current feedback phase
-    - Official teams can submit initiatives by creating a PR against the nixos-homepage repo, which is reviewed by the board/SC before merged
+  - Official teams can submit initiatives by creating a PR against the nixos-homepage repo, which is reviewed by the board/SC before merged
   - There is a contact form for companies to reach out to initiate the process of submitting funding for either a listed effort, or a custom one
   - A rough mockup might look like this, but there should also be a clickable email link as an alternative:
   - The contents of this page is also sent to interested companies every 3 months for the grants feedback phase
@@ -75,7 +80,7 @@ After grant proposals are kicked off, the applicants are expected to do the work
 
 ![](./initiatives.svg)
 
-([source](https://excalidraw.com/#json=xPRvVNuVKd2W3-yUpJLcg,a3QQ56AVTOv1E-xQ9-mfbw), make sure to update the source link when changing anything)
+([source](https://excalidraw.com/#json=uOm0sevjMzBprCyEe4iNc,CIz8fZQ13LKTXXIODlW0hQ), make sure to update the source link when changing anything)
 
 ## SC evaluation criteria and process
 
