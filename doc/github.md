@@ -22,6 +22,12 @@ They can however make use of the [Nixpkgs merge bot](https://github.com/NixOS/ni
 
 The [Nixpkgs core team](./nixpkgs-core.md) controls this repository.
 
+### [home-manager](https://github.com/NixOS/home-manager)
+
+The user environment manager.
+
+It is administered by @khaneliman and @rycee.
+
 ### [nix](https://github.com/NixOS/nix)
 
 The Nix language and CLI implementation.
