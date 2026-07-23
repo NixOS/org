@@ -72,7 +72,7 @@ We build trust primarily by working together on Nix projects.
 
 We are a global community, and disseminating information and maintaining processes can be difficult.
 We are also a large project with a lot of hard and repetitive work.
-Therefore, we value automation over toil, while recognizing that not all toil can be automated.
+Therefore, we value deterministic automation over toil, while recognizing that not all toil can be automated.
 Automation reduces toil, but people are still accountable.
 Adding new toil needs a very strong justification.
 
