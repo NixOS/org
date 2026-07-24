@@ -34,6 +34,7 @@ A grant wave is 3 months long, comprised of two phases, and executed by the boar
 - Proposal phase (1.5 months): Anybody can write a grant proposal by submitting a PR to a repository.
   - Proposals should primarily include the team (1+ persons, 1 contact person) to do the work, the milestones, timeline, the amount needed and the recipient of the funds (must be a company, can be self-proprietorship)
     - Proposals may also be for non-official projects
+    - Timelines can be arbitrarily long and have arbitrarily many milestones in them
 - Wave midpoint: Close proposal submissions, announce the feedback phase and reach out to:
   - Various stakeholders for feedback, including authoritative community teams or individuals
   - Companies for the opportunity to submit extra funding for specific proposals (via initiative funding)
