@@ -48,7 +48,6 @@ A grant wave is 3 months long, comprised of two phases, and executed by the boar
     - SC majority to back the proposal, but not enough funding this round -> Proposal PR is kept open, in case there's enough funding for a later wave
       - Be clear that in such a case, there's still no guarantee to receive funding later
   - The board ensures standard legal requirements
-  - Standard rejection message that hints towards alternative funding partners
 
 ### Milestone evaluation
 
