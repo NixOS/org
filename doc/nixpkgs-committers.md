@@ -4,8 +4,6 @@ There are [200 Nixpkgs committers](https://github.com/NixOS/nixpkgs-committers/t
 You can nominate yourself or another contributor to become a Nixpkgs committer.
 This should be done by following [these instructions](https://github.com/NixOS/nixpkgs-committers?tab=readme-ov-file#nominations).
 
-The [Nixpkgs core team](./nixpkgs-core.md) currently fills the role of the Nixpkgs committer delegation team and is given the responsibility and authority of changing the list of [Nixpkgs committers](https://github.com/orgs/NixOS/teams/nixpkgs-committers).
-
 ## Process
 - The process must be publicly documented (this document)
 - Any change to the process must be unanimously agreed upon by all delegation team members
