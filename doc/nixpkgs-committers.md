@@ -7,8 +7,12 @@ This should be done by following [these instructions](https://github.com/NixOS/n
 The [Nixpkgs core team](./nixpkgs-core.md) currently fills the role of the Nixpkgs committer delegation team and is given the responsibility and authority of changing the list of [Nixpkgs committers](https://github.com/orgs/NixOS/teams/nixpkgs-committers).
 
 ## Process
-- The process must be publicly documented (this document)
+
+The process and guidelines are documented at [nixpkgs-committers#82](https://github.com/NixOS/nixpkgs-committers/issues/82)).
+
+Boundary conditions
+- The process must be publicly documented
 - Any change to the process must be unanimously agreed upon by all delegation team members
 - Any change in the list of committers must be publicly documented
-- Addition of a committer must be agreed upon by all delegation team members
-- Removal of a committer only requires agreement of a single delegation team member
+
+See [nixpkgs-committers#82](https://github.com/NixOS/nixpkgs-committers/issues/82)) for operational details.
