@@ -5,11 +5,9 @@ The [NixOS GitHub enterprise](https://github.com/enterprises/nixos) and all (non
 - [Foundation Board](https://nixos.org/community/teams/foundation-board) representative[^2]: [@infinisil](https://github.com/infinisil)
 - [Steering Committee](https://nixos.org/community/teams/steering-committee) representative[^3]: [@PhilipTaron](https://github.com/PhilipTaron)
 - [Security Team](https://nixos.org/community/teams/security/) representative[^4]: [@mweinelt](https://github.com/mweinelt)
-- [Nixpkgs Core Team](https://nixos.org/community/teams/nixpkgs-core/) representative[^4]: [@emilazy](https://github.com/emilazy)
 
 [^2]: For legal/financial matters
 [^3]: For elected governance
-[^4]: For relevant expertise
 
 The number of org owners should be kept low to improve our security posture, while having team representatives improves the health of org owner decision-making by naturally ensuring a "two-person decisions require sign-off from multiple teams" property.
 
