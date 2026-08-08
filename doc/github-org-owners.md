@@ -8,6 +8,7 @@ The [NixOS GitHub enterprise](https://github.com/enterprises/nixos) and all (non
 
 [^2]: For legal/financial matters
 [^3]: For elected governance
+[^4]: For relevant expertise
 
 The number of org owners should be kept low to improve our security posture, while having team representatives improves the health of org owner decision-making by naturally ensuring a "two-person decisions require sign-off from multiple teams" property.
 
