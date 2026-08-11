@@ -25,11 +25,15 @@ This should be displayed on the website.
 
 ### Bronze (1024 EUR):
 - Linked logo on the website
+- Linked shout-out or repost from official social media accounts
+- Possibility to distribute your own stickers/swag/merch at the venue
 - Tickets: 1 corporate tickets
 
 ### Silver (4096 EUR)
 - Everything from Bronze
 - Shout-out in the opening
+- Slot on break slideshow (provide a slide in advance)
+- Possibility to distribute flyers (provide them in advance) to all attendees in bag
 - Tickets: 2 corporate tickets
 
 ### Gold (8192 EUR):
@@ -44,6 +48,8 @@ This should be displayed on the website.
 - Everything from Gold
 - Logo on some official conference swag[^2][^3]
 - Possibility to distribute items (provide them in advance) to all attendees in bag
+- 1 minute presentation slot (provide the slides in advance) in the conference opening
+- Intro of all recordings show your name/logo
 - Tickets: 8 corporate tickets
 
 [^3]: These perks require production and cannot be guaranteed if too late.
