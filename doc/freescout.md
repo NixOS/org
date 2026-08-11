@@ -101,5 +101,6 @@ The following modules are currently installed:
 - [Email Commands](https://freescout.net/module/email-commands/)
 - [Workflows](https://freescout.net/module/workflows/)
 - [Mentions](https://freescout.net/module/mentions/)
+- [Sent-Folder](https://freescout.net/module/sent-folder/)
 
 Feel free to request additional modules by adding it to the above list and opening a PR.
