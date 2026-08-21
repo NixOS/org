@@ -50,7 +50,7 @@ A grant wave is 3 months long, comprised of two phases, and executed by the boar
   - Feedback from stakeholders can be discussed and acted upon
   - Sign purpose-bound funding contracts with funding companies wanting to submit funds for specific proposals
   - Any proposal PRs submitted during this time will only be eligible for the next wave
-- Wave end: SC decides which proposals get funded, while proritising the agenda and satisfying the [SC's evaluation criteria and process](#sc-evaluation-criteria-and-process), which are then merged to signal that the proposal is accepted for funding and the work can start
+- Wave end: SC decides which proposals get funded, while prioritising the agenda and satisfying the [SC's evaluation criteria and process](#sc-evaluation-criteria-and-process), which are then merged to signal that the proposal is accepted for funding and the work can start
   - Proposals can get rejected due to either:
     - No SC majority to back the proposal -> Proposal PR gets closed
     - SC majority to back the proposal, but not enough funding this round -> Proposal PR is kept open, in case there's enough funding for a later wave
