@@ -78,6 +78,7 @@ After grant proposals are kicked off, the applicants are expected to do the work
     - 10% management overhead
     - 20% maintenance overhead
     - 5% evaluator overhead
+  - Team-submitted initiatives can have recurring payments (quarterly or yearly), which is the recommended option. Grant proposals can only be one-time payments
 - Maintain a page on the website that showcases funding opportunities, with both team initiatives and current grant proposals, but with a highlight on team initiatives, and send this to interested companies every 3 months
   - Official teams can submit initiatives by creating a PR against the nixos-homepage repo, which is reviewed by the board/SC before merged
   - There is a contact form for companies to reach out to initiate the process of submitting purpose-bound funding for either a listed opportunity, or a custom purpose, see below for a rough mockup
@@ -87,7 +88,7 @@ After grant proposals are kicked off, the applicants are expected to do the work
 
 ![](./initiatives.svg)
 
-([source](https://excalidraw.com/#json=NzgdkIn9Zkx8J_jFJRioM,7DhDjEUGWlXYulYdJ40niA), make sure to update the source link when changing anything)
+([source](https://excalidraw.com/#json=ibw0fNwkkGuL1QGhAhVIx,cJ-7--yHQVGMEH3Wfcj08A), make sure to update the source link when changing anything)
 
 ## SC evaluation criteria and process
 
