@@ -1,4 +1,4 @@
-# Proposal: Grant program and initiative funding
+# Proposal: Grant program and purpose-bound funding
 
 Alternative title: Filling funding flow gaps
 
@@ -12,8 +12,8 @@ Alternative title: Filling funding flow gaps
 
 There are two inter-related parts to this proposal:
 
-- Grant program: A way for contributors to propose ideas and get paid by the NixOS Foundation for delivering milestones. The funds can come from both general-purpose donations and initiative funding.
-- Initiative funding: A way for companies and individuals to provide purpose-bound funding, such as specific grants or team initiatives.
+- Grant program: A way for contributors to propose ideas and get paid by the NixOS Foundation for delivering milestones. The funds can come from both general-purpose donations and purpose-bound funding.
+- Purpose-bound funding: A way for companies to provide funding for specific grants proposals or team initiatives.
 
 ![](./flow.svg)
 
@@ -37,11 +37,11 @@ A grant wave is 3 months long, comprised of two phases, and executed by the boar
     - Timelines can be arbitrarily long and have arbitrarily many milestones in them
 - Wave midpoint: Close proposal submissions, announce the feedback phase and reach out to:
   - Various stakeholders for feedback, including authoritative community teams or individuals
-  - Companies for the opportunity to submit extra funding for specific proposals (via initiative funding)
+  - Companies for the opportunity to submit extra funding for specific proposals (via purpose-bound funding)
     - Also mention team initiatives, same as on the website
 - Feedback phase (1.5 months): Collection of feedback and funds
   - Feedback from stakeholders can be discussed and acted upon
-  - Sign initiative funding contracts with funding companies wanting to submit funds for specific proposals
+  - Sign purpose-bound funding contracts with funding companies wanting to submit funds for specific proposals
   - Any proposal PRs submitted during this time will only be eligible for the next wave
 - Wave end: SC decides which proposals get funded, while proritising the agenda and satisfying the [SC's evaluation criteria and process](#sc-evaluation-criteria-and-process), which are then merged to signal that the proposal is accepted for funding and the work can start
   - Proposals can get rejected due to either:
@@ -65,26 +65,29 @@ After grant proposals are kicked off, the applicants are expected to do the work
 
 ([source](https://excalidraw.com/#json=rRutoi8nEcpjv1UIj3X87,VCPIeHZP_6ouG0U7tWQxMg), make sure to update the source link when changing anything)
 
-## Initiative funding
+## Purpose-bound funding
 
-- Establish a process for going into contracts with companies to supply funding for specific purposes, with a guarantee that the funding (without an additional 10%/15% overhead) will be used for the stated purpose, and that if not all of the funding could be used as such, the rest is repurposed according to the funder companies wishes.
-  - The minimum required funding is 1000 EUR (+10%/15% overhead, excl. VAT).
+- Establish a process for going into contracts with companies to supply funding for specific purposes, with a guarantee that the funding (without an additional overhead) will be used for the stated purpose, and that if not all of the funding could be used as such, the rest is repurposed according to the funder companies wishes.
+  - The minimum required funding is 1000 EUR (+overhead, excl. VAT).
   - The [SC's evaluation criteria and process](#sc-evaluation-criteria-and-process) have to be met
   - The board ensures standard legal requirements
   - This can be used for team-submitted initiatives (see below) and grant proposals from the current feedback phase
-  - There is always a 10% management overhead that will not be allocated to the initiative funding
-    - For grant funding, there is an addition 5% overhead for evaluator funding
-- Create a page on the website that showcases a list of efforts that are looking for funding
+  - For team-submitted purpose-bound funding, the overhead fees are 10%:
+    - 10% management overhead
+  - For grant proposal funding, the overhead fees are 35%:
+    - 10% management overhead
+    - 20% maintenance overhead
+    - 5% evaluator overhead
+- Maintain a page on the website that showcases funding opportunities, with both team initiatives and current grant proposals, but with a highlight on team initiatives, and send this to interested companies every 3 months
   - Official teams can submit initiatives by creating a PR against the nixos-homepage repo, which is reviewed by the board/SC before merged
-  - There is a contact form for companies to reach out to initiate the process of submitting funding for either a listed effort, or a custom one
-  - A rough mockup might look like this, but there should also be a clickable email link as an alternative:
-  - The contents of this page is also sent to interested companies every 3 months for the grants feedback phase
-- If there's a lot of interest by community individuals, we can also start a crowd-funding campaign for initiatives
-  - Crowd-funding campaigns are seen as a donation without a legal guarantee of the funding being used for the purpose or returned
+  - There is a contact form for companies to reach out to initiate the process of submitting purpose-bound funding for either a listed opportunity, or a custom purpose, see below for a rough mockup
+  - An email to reach out to should be provided as an alternative
+- If there's a lot of interest by community individuals, the board can consider creating an OpenCollective crowd-funding campaign for team initiatives
+  - As opposed to purpose-bound funding, such crowd-funding campaigns are a donation without a legal guarantee of the funding being used for the purpose
 
 ![](./initiatives.svg)
 
-([source](https://excalidraw.com/#json=uOm0sevjMzBprCyEe4iNc,CIz8fZQ13LKTXXIODlW0hQ), make sure to update the source link when changing anything)
+([source](https://excalidraw.com/#json=NzgdkIn9Zkx8J_jFJRioM,7DhDjEUGWlXYulYdJ40niA), make sure to update the source link when changing anything)
 
 ## SC evaluation criteria and process
 
