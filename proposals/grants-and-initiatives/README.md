@@ -80,7 +80,7 @@ After grant proposals are kicked off, the applicants are expected to do the work
     - 5% evaluator overhead
   - Team-submitted initiatives can have recurring payments (quarterly or yearly), which is the recommended option. Grant proposals can only be one-time payments
 - Maintain a page on the website that showcases funding opportunities, with both team initiatives and current grant proposals, but with a highlight on team initiatives, and send this to interested companies every 3 months
-  - Official teams can submit initiatives by creating a PR against the nixos-homepage repo, which is reviewed by the board/SC before merged
+  - Official teams can submit initiatives by creating a PR against the nixos-homepage repo, which is reviewed by the board/SC before merged. Team initiatives consist of a title, description and link to more info (e.g. a team roadmap, repo, board, ...)
   - There is a contact form for companies to reach out to initiate the process of submitting purpose-bound funding for either a listed opportunity, or a custom purpose, see below for a rough mockup
   - An email to reach out to should be provided as an alternative
 - If there's a lot of interest by community individuals, the board can consider creating an OpenCollective crowd-funding campaign for team initiatives
