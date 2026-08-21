@@ -4,9 +4,13 @@ Alternative title: Filling funding flow gaps
 
 ## Motivation
 
-- Use NixOS Foundation donations for beneficial purposes in a more transparent way
-- Enable companies to finance Nix ecosystem improvements in a more streamlined way
+- Enable companies to finance Nix ecosystem improvements in a more streamlined and transparent way
 - Enable contributors to get paid for working on Nix ecosystem improvements in a more streamlined way
+- Provide a way to connect funding partners to contributing individuals, e.g. for when:
+  - Individuals don't want to be employed/contracted directly by a company, and don't want to be limited by receiving funding from only one company
+  - Companies don't want to employ/contract an individual directly, and want to provide funding in a more flexible way to multiple individuals
+  - Companies want a trusted third-party to hold the funds until work is complete
+- Strengthen the ecosystem by providing funding resources to contributors using general NixOS Foundation donation profits not tied to any companies
 
 # Detailed Design
 
@@ -14,6 +18,8 @@ There are two inter-related parts to this proposal:
 
 - Grant program: A way for contributors to propose ideas and get paid by the NixOS Foundation for delivering milestones. The funds can come from both general-purpose donations and purpose-bound funding.
 - Purpose-bound funding: A way for companies to provide funding for specific grants proposals or team initiatives.
+
+These programs should incorporate messaging to encourage contributing individuals to seek employment contracts or contracting agreements with funding partners.
 
 ![](./flow.svg)
 
