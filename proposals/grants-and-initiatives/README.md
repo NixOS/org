@@ -74,28 +74,24 @@ After grant proposals are kicked off, the applicants are expected to do the work
 
 ## Purpose-bound funding
 
-- Establish a process for going into contracts with companies to supply funding for specific purposes, with a guarantee that the funding (without an additional overhead) will be used for the stated purpose, and that if not all of the funding could be used as such, the rest is repurposed according to the funder companies wishes.
-  - The minimum required funding is 1000 EUR (+overhead, excl. VAT).
+- Establish a process for going into contracts with companies to supply funding for specific purposes, with a guarantee that part of the funding will be used for the stated purpose, and that what could not be used as such is repurposed according to the funder companies wishes.
+  - The minimum required funding is 1000 EUR (plus management/maintenance/evaluation budget, excl. VAT).
   - The [SC's evaluation criteria and process](#sc-evaluation-criteria-and-process) have to be met
   - The board ensures standard legal requirements
   - This can be used for team-submitted initiatives (see below) and grant proposals from the current feedback phase
-  - For team-submitted purpose-bound funding, the overhead fees are 10%:
-    - 10% management overhead
-  - For grant proposal funding, the overhead fees are 35%:
-    - 10% management overhead
-    - 20% maintenance overhead
-    - 5% evaluator overhead
+  - For team initiative funding, we charge an extra 10% for manegement
+  - For grant proposal funding, we charge an extra 35% for management (10%), maintenance (20%) and evaluation (5%)
   - Team-submitted initiatives can have recurring payments (quarterly or yearly), which is the recommended option. Grant proposals can only be one-time payments
 - Maintain a page on the website that showcases funding opportunities, with both team initiatives and current grant proposals, but with a highlight on team initiatives, and send this to interested companies every 3 months
   - Official teams can submit initiatives by creating a PR against the nixos-homepage repo, which is reviewed by the board/SC before merged. Team initiatives consist of a title, description and link to more info (e.g. a team roadmap, repo, board, ...)
   - There is a contact form for companies to reach out to initiate the process of submitting purpose-bound funding for either a listed opportunity, or a custom purpose, see below for a rough mockup
   - An email to reach out to should be provided as an alternative
 - If there's a lot of interest by community individuals, the board can consider creating an OpenCollective crowd-funding campaign for team initiatives
-  - As opposed to purpose-bound funding, such crowd-funding campaigns are a donation without a legal guarantee of the funding being used for the purpose
+  - As opposed to purpose-bound funding that come with a contract meant for companies, such crowd-funding campaigns are meant for individuals and are seen as a donation without a contractual guarantee of the funding being used for the stated purpose
 
 ![](./initiatives.svg)
 
-([source](https://excalidraw.com/#json=ibw0fNwkkGuL1QGhAhVIx,cJ-7--yHQVGMEH3Wfcj08A), make sure to update the source link when changing anything)
+([source](https://excalidraw.com/#json=197D8PbBEEfh38IR9RKt9,zCl1JSX_1yME1Z7Z1VixfA), make sure to update the source link when changing anything)
 
 ## SC evaluation criteria and process
 
