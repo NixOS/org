@@ -75,7 +75,11 @@ After grant proposals are kicked off, the applicants are expected to do the work
 ## Purpose-bound funding
 
 - Establish a process for going into contracts with companies to supply funding for specific purposes, with a guarantee that part of the funding will be used for the stated purpose, and that what could not be used as such is repurposed according to the funder companies wishes.
-  - The minimum required funding is 1000 EUR (plus management/maintenance/evaluation budget, excl. VAT).
+  - The minimum required funding depends on the companies revenue:
+    - Under €1'000'000: €1'000 (plus management/maintenance/evaluation budget, excl. VAT).
+    - €1'000'000 - €10'000'000: €10'000 (plus management/maintenance/evaluation budget, excl. VAT).
+    - Over €10'000'000: €100'000 (plus management/maintenance/evaluation budget, excl. VAT).
+    - For grants, the maximum funding is the grant amount itself. If the minimum is above the maximum, the maximum applies.
   - The [SC's evaluation criteria and process](#sc-evaluation-criteria-and-process) have to be met
   - The board ensures standard legal requirements
   - This can be used for team-submitted initiatives (see below) and grant proposals from the current feedback phase
