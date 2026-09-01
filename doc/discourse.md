@@ -12,7 +12,7 @@ Moderators:
 - @lassulus
 
 SC representatives:
-- @jtojnar
+- vacant
 
 Flying Circus Administrators:
 - @ctheune
