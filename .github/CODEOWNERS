@@ -14,7 +14,7 @@
 /rulesets @NixOS/org
 
 /doc/org-repo.md @NixOS/steering
-/doc/discourse.md @NixOS/steering @mweinelt @lassulus @jtojnar @ctheune @dpausp
+/doc/discourse.md @NixOS/steering @mweinelt @lassulus @ctheune @dpausp
 /doc/github.md @NixOS/org
 /doc/github-org-owners.md @NixOS/steering
 /doc/matrix.md @NixOS/steering
