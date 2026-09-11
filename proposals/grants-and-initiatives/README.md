@@ -80,7 +80,7 @@ After grant proposals are kicked off, the applicants are expected to do the work
   - The board ensures standard legal requirements
   - This can be used for team-submitted initiatives (see below) and grant proposals from the current feedback phase
   - For team initiative funding, we charge an extra 10% for manegement
-  - For grant proposal funding, we charge an extra 35% for management (10%), maintenance (20%) and evaluation (5%)
+  - For grant proposal funding, we charge an extra 35% for management (10%), maintenance (20%[^1]) and evaluation (5%)
   - Team-submitted initiatives can have recurring payments (quarterly or yearly), which is the recommended option. Grant proposals can only be one-time payments
 - Maintain a page on the website that showcases funding opportunities, with both team initiatives and current grant proposals, but with a highlight on team initiatives, and send this to interested companies every 3 months
   - Official teams can submit initiatives by creating a PR against the nixos-homepage repo, which is reviewed by the board/SC before merged. Team initiatives consist of a title, description and link to more info (e.g. a team roadmap, repo, board, ...)
@@ -88,6 +88,9 @@ After grant proposals are kicked off, the applicants are expected to do the work
   - An email to reach out to should be provided as an alternative
 - If there's a lot of interest by community individuals, the board can consider creating an OpenCollective crowd-funding campaign for team initiatives
   - As opposed to purpose-bound funding that come with a contract meant for companies, such crowd-funding campaigns are meant for individuals and are seen as a donation without a contractual guarantee of the funding being used for the stated purpose
+
+[^1]: This represents maintenance needed on the result of the grant after its completion, e.g. to fund the team owning the codebase to fix bugs, do refactorings, or review PR's related to the contributed code, likely for many years to come.
+
 
 ![](./initiatives.svg)
 
