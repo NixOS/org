@@ -14,9 +14,10 @@ Alternative title: Filling funding flow gaps
 
 # Detailed Design
 
-There are two inter-related parts to this proposal:
+There are three inter-related parts to this proposal:
 
-- Grant program: A way for contributors to propose ideas and get paid by the NixOS Foundation for delivering milestones. The funds can come from both general-purpose donations and purpose-bound funding.
+- Team initiatives: A way for teams to request funding, which can come either from general-purpose donations or purpose-bound funding
+- Grant program: A way for contributors to propose ideas and get paid for delivering milestones. The funds can come from both general-purpose donations and purpose-bound funding.
 - Purpose-bound funding: A way for companies to provide funding for specific grants proposals or team initiatives.
 
 These programs should incorporate messaging to encourage contributing individuals to seek employment contracts or contracting agreements with funding partners.
@@ -24,6 +25,16 @@ These programs should incorporate messaging to encourage contributing individual
 ![](./flow.svg)
 
 ([source](https://excalidraw.com/#json=ZrF5CEDeZp5squJcqxXu_,LzsWVJZ_ZQXvCuoIPr9iwA), make sure to update the source link when changing anything)
+
+## Team initiatives
+
+Create a process for teams submitting initiatives for funding.
+
+- Official teams can submit initiatives by creating a PR against the nixos-homepage repo, which is reviewed by the board/SC before merged. Team initiatives consist of a title, description and link to more info (e.g. a team roadmap, repo, board, ...)
+  - Communication between a team representative and the board will be established to synchronise on available funding and team needs
+- The board may allocate part of the income and ear-marked funds towards team initiatives
+- If there's a lot of interest by community individuals to support team initiatives, the board can consider creating an OpenCollective crowd-funding campaign for team initiatives
+  - As opposed to [purpose-bound funding](#purpose-bound-funding) that come with a contract meant for companies, such crowd-funding campaigns are meant for individuals and are seen as a donation without a contractual guarantee of the funding being used for the stated purpose
 
 ## Grant program
 
@@ -34,7 +45,7 @@ Create a page on the website to explain this.
 A grant wave is 3 months long, comprised of two phases, and executed by the board or someone delegated:
 
 - Wave start: Widely announce the new wave, including:
-  - Decided by the board: how much funds (and how they're ear-marked, if at all) are available to be allocated. This generally includes part of the income and ear-marked funds.
+  - Decided by the board: How much funds (and how they're ear-marked, if at all) are available to be allocated. This may include part of the income and ear-marked funds.
     - In addition to the funding directly available to the grant proposals, internally an extra 5% is budgeted for grant evaluators
   - Decided by the SC: The agenda that will be prioritised for this wave
 - Proposal phase (1.5 months): Anybody can write a grant proposal by submitting a PR to a repository.
@@ -78,19 +89,15 @@ After grant proposals are kicked off, the applicants are expected to do the work
   - Funding recommendations for differently sized companies should be given
   - The [SC's evaluation criteria and process](#sc-evaluation-criteria-and-process) have to be met
   - The board ensures standard legal requirements
-  - This can be used for team-submitted initiatives (see below) and grant proposals from the current feedback phase
+  - This can be used for [team-submitted initiatives](#team-initiatives) and grant proposals from the current feedback phase
   - For team initiative funding, we charge an extra 10% for manegement
   - For grant proposal funding, we charge an extra 35% for management (10%), maintenance (20%[^1]) and evaluation (5%)
   - Team-submitted initiatives can have recurring payments (quarterly or yearly), which is the recommended option. Grant proposals can only be one-time payments
 - Maintain a page on the website that showcases funding opportunities, with both team initiatives and current grant proposals, but with a highlight on team initiatives, and send this to interested companies every 3 months
-  - Official teams can submit initiatives by creating a PR against the nixos-homepage repo, which is reviewed by the board/SC before merged. Team initiatives consist of a title, description and link to more info (e.g. a team roadmap, repo, board, ...)
   - There is a contact form for companies to reach out to initiate the process of submitting purpose-bound funding for either a listed opportunity, or a custom purpose, see below for a rough mockup
   - An email to reach out to should be provided as an alternative
-- If there's a lot of interest by community individuals, the board can consider creating an OpenCollective crowd-funding campaign for team initiatives
-  - As opposed to purpose-bound funding that come with a contract meant for companies, such crowd-funding campaigns are meant for individuals and are seen as a donation without a contractual guarantee of the funding being used for the stated purpose
 
 [^1]: This represents maintenance needed on the result of the grant after its completion, e.g. to fund the team owning the codebase to fix bugs, do refactorings, or review PR's related to the contributed code, likely for many years to come.
-
 
 ![](./initiatives.svg)
 
