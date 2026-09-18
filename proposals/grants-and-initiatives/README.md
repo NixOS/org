@@ -89,7 +89,7 @@ After grant proposals are kicked off, the applicants are expected to do the work
   - The [SC's evaluation criteria and process](#sc-evaluation-criteria-and-process) have to be met
   - The board ensures standard legal requirements
   - This can be used for [team-submitted initiatives](#team-initiatives) and grant proposals from the current feedback phase
-  - For team initiative funding, we charge an extra 10% for manegement
+  - For team initiative funding, we charge an extra 10% for management
   - For grant proposal funding, we charge an extra 35% for management (10%), maintenance (20%[^1]) and evaluation (5%)
   - Team-submitted initiatives can have recurring payments (quarterly or yearly), which is the recommended option. Grant proposals can only be one-time payments
 - Maintain a page on the website that showcases funding opportunities, with both team initiatives and current grant proposals, but with a highlight on team initiatives, and send this to interested companies every 3 months
