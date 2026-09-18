@@ -20,8 +20,6 @@ There are three inter-related parts to this proposal:
 - Grant program: A way for contributors to propose ideas and get paid for delivering milestones. The funds can come from both general-purpose donations and purpose-bound funding.
 - Purpose-bound funding: A way for companies to provide funding for specific grants proposals or team initiatives.
 
-As the NixOS foundation won't employ anybody, we encourage contributors to seek employment independently.
-
 ![](./flow.svg)
 
 ([source](https://excalidraw.com/#json=ZrF5CEDeZp5squJcqxXu_,LzsWVJZ_ZQXvCuoIPr9iwA), make sure to update the source link when changing anything)
