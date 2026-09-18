@@ -102,5 +102,6 @@ The following modules are currently installed:
 - [Workflows](https://freescout.net/module/workflows/)
 - [Mentions](https://freescout.net/module/mentions/)
 - [Sent-Folder](https://freescout.net/module/sent-folder/)
+- [Customers Management (CRM)](https://freescout.net/module/crm/)
 
 Feel free to request additional modules by adding it to the above list and opening a PR.
