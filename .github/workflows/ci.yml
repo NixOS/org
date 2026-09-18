@@ -16,6 +16,7 @@ jobs:
       with:
         ref: refs/pull/${{ github.event.pull_request.number }}/merge
         path: untrusted-pr
+        allow-unsafe-pr-checkout: true
 
     - uses: serokell/xrefcheck-action@v1
       with:
@@ -39,6 +40,7 @@ jobs:
       with:
         ref: refs/pull/${{ github.event.pull_request.number }}/merge
         path: untrusted-pr
+        allow-unsafe-pr-checkout: true
 
     - name: Validate codeowners
       run: result/bin/codeowners-validator
