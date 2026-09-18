@@ -70,13 +70,13 @@ A grant wave is 3 months long, comprised of two phases, and executed by the boar
 
 ### Milestone evaluation
 
-After grant proposals are kicked off, the applicants are expected to do the work and follow up after completing each milestone with detailed reports submitted as a PRs to the evaluation repo. An appointed evaluator will evaluate the work, request changes if necessary, and give approval if satisfactory, in which case the applicants will be paid.
+After grant proposals are kicked off, the applicants are expected to do the work and follow up after completing each milestone with detailed reports submitted as a PRs to the evaluation repo. Appointed evaluators will evaluate the work, request changes if necessary, and give approval if satisfactory, in which case the applicants will be paid.
 
-- The evaluator is appointed from a list of trusted community individuals that have agreed to being evaluators
+- The evaluators are appointed from a list of trusted community individuals that have agreed to being evaluators
   - Changes to this list are decided by the SC
-- The board picks an evaluator from the list
+- The board picks the evaluators from the list
 - Evaluators are required to submit an evaluation report including deliverables, evaluation notes and approval decision
-- Evaluators get 5% of each milestone amount for its evaluation, independent of whether the work is passing or not
+- Evaluators together get 5% of each milestone amount for its evaluation, independent of whether the work is passing or not
   - The 5% is budgeted internally by the foundation
 
 ![](./waves.svg)
