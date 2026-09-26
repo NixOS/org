@@ -11,13 +11,13 @@ jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - uses: cachix/install-nix-action@v26
+      - uses: cachix/install-nix-action@v31
 
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
         with:
           path: repo
 
-      - uses: actions/create-github-app-token@v1
+      - uses: actions/create-github-app-token@v3
         id: app-token
         with:
           # This GitHub App needs Organization/Members/read-only access

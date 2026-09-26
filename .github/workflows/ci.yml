@@ -12,7 +12,7 @@ jobs:
     name: Check references
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v4
+    - uses: actions/checkout@v7
       with:
         ref: refs/pull/${{ github.event.pull_request.number }}/merge
         path: untrusted-pr
@@ -25,9 +25,9 @@ jobs:
     name: Validate codeowners
     runs-on: ubuntu-latest
     steps:
-    - uses: cachix/install-nix-action@v26
+    - uses: cachix/install-nix-action@v31
 
-    - uses: actions/checkout@v4
+    - uses: actions/checkout@v7
       with:
         path: trusted-base
 
@@ -35,7 +35,7 @@ jobs:
       # We run the result of this with access to secrets later, so it's important to trust this!
       run: nix-build trusted-base -A packages.codeowners-validator
 
-    - uses: actions/checkout@v4
+    - uses: actions/checkout@v7
       with:
         ref: refs/pull/${{ github.event.pull_request.number }}/merge
         path: untrusted-pr
