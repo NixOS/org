@@ -6,6 +6,7 @@
 
 /.gitignore @NixOS/org
 /.github/CODEOWNERS @NixOS/org
+/.github/dependabot.yml @NixOS/org
 /.github/workflows @NixOS/org
 /scripts @NixOS/org
 /npins @NixOS/org
