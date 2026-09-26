@@ -12,10 +12,13 @@ jobs:
     name: Check references
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v4
+    - uses: actions/checkout@v7
       with:
         ref: refs/pull/${{ github.event.pull_request.number }}/merge
         path: untrusted-pr
+        # Needed for PRs from forks. This is fine because we only ever read files from this checkout, never run them.
+        allow-unsafe-pr-checkout: true
+        persist-credentials: false
 
     - uses: serokell/xrefcheck-action@v1
       with:
@@ -25,9 +28,9 @@ jobs:
     name: Validate codeowners
     runs-on: ubuntu-latest
     steps:
-    - uses: cachix/install-nix-action@v26
+    - uses: cachix/install-nix-action@v31
 
-    - uses: actions/checkout@v4
+    - uses: actions/checkout@v7
       with:
         path: trusted-base
 
@@ -35,10 +38,13 @@ jobs:
       # We run the result of this with access to secrets later, so it's important to trust this!
       run: nix-build trusted-base -A packages.codeowners-validator
 
-    - uses: actions/checkout@v4
+    - uses: actions/checkout@v7
       with:
         ref: refs/pull/${{ github.event.pull_request.number }}/merge
         path: untrusted-pr
+        # Needed for PRs from forks. This is fine because we only ever read files from this checkout, never run them.
+        allow-unsafe-pr-checkout: true
+        persist-credentials: false
 
     - name: Validate codeowners
       run: result/bin/codeowners-validator
