@@ -100,7 +100,7 @@ After grant proposals are kicked off, the applicants are expected to do the work
 
 ![](./initiatives.svg)
 
-([source](https://excalidraw.com/#json=197D8PbBEEfh38IR9RKt9,zCl1JSX_1yME1Z7Z1VixfA), make sure to update the source link when changing anything)
+([source](https://excalidraw.com/#json=fH0tQB38e3TmsxySMdIL3,ZgEJGGodmlT90NYbLV95QQ), make sure to update the source link when changing anything)
 
 ## SC evaluation criteria and process
 
