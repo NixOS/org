@@ -88,6 +88,8 @@ After grant proposals are kicked off, the applicants are expected to do the work
   - Funding recommendations for differently sized companies should be given
   - The [SC's evaluation criteria and process](#sc-evaluation-criteria-and-process) have to be met
   - The board ensures standard legal requirements
+  - Any software written with this funding must be licensed under an [OSI-approved license](https://opensource.org/licenses)
+    - Non-software must be licensed under either CC0, CC BY, or CC BY-SA
   - This can be used for [team-submitted initiatives](#team-initiatives) and grant proposals from the current feedback phase
   - For team initiative funding, we charge an extra 10% for management
   - For grant proposal funding, we charge an extra 35% for management (10%), maintenance (20%[^1]) and evaluation (5%)
