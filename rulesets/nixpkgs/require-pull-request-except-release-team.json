@@ -43,6 +43,5 @@
       "actor_type": "Team",
       "bypass_mode": "always"
     }
-  ],
-  "current_user_can_bypass": "never"
+  ]
 }
