@@ -13,4 +13,9 @@ The process, guidelines, and operational details are documented at [nixpkgs-comm
 Boundary conditions:
 - The process must be publicly documented
 - Any change to the process must be unanimously agreed upon by all delegation team members
+- Adding or removing a committer requires the agreement of at least two delegation team members
+  - In an emergency, such as an apparent account compromise, a single delegation team member may remove a committer immediately; a second member must then review the removal
+- Before removing a committer, the delegation team must discuss its concerns with them and give them a chance to change their behavior
+  - In an emergency, the discussion may instead happen after removal
+- Removal is not permanent: a former committer may be nominated again once the concerns have been addressed
 - Any change in the list of committers must be publicly documented
