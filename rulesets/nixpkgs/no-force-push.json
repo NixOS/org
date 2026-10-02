@@ -23,6 +23,5 @@
       "type": "non_fast_forward"
     }
   ],
-  "bypass_actors": [],
-  "current_user_can_bypass": "never"
+  "bypass_actors": []
 }

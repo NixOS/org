@@ -42,6 +42,5 @@
       "actor_type": "Integration",
       "bypass_mode": "always"
     }
-  ],
-  "current_user_can_bypass": "always"
+  ]
 }
