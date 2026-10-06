@@ -205,7 +205,7 @@ A committee member elected in a special election will serve out the remainder of
 
 A simple majority within the SC may call a reelection of the entire SC based on perceived loss of confidence.
 In this case, it also has to be decided whether this election is considered a special election for the remainders of all the corresponding terms, or an initial election for full 2-year terms for half of the seats rounded up and 1-year half-terms for the remaining seats.
-Vacant seats vote in favour of reelection, and between initial election and special election they count towards special election.
+Vacant seats vote in favour of reelection, and between initial election and special election, they count towards an initial election in case a tiebreaker is needed, otherwise abstaining.
 
 ### Removal for conduct
 
