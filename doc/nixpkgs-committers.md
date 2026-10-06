@@ -8,7 +8,7 @@ While the Nixpkgs core team is vacant, the [Nixpkgs CI team](https://github.com/
 
 ## Process
 
-The process, guidelines, and operational details are documented at [nixpkgs-committers#130](https://github.com/NixOS/nixpkgs-committers/issues/130).
+The process, guidelines, and operational details are documented in the nixpkgs-committers [README](https://github.com/NixOS/nixpkgs-committers/blob/-/README.md).
 
 Boundary conditions:
 - The process must be publicly documented
