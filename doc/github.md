@@ -68,6 +68,12 @@ The home of the branding guide and media kit.
 
 The [marketing team](https://nixos.org/community/teams/marketing/) controls this repository.
 
+### [release-artwork](https://github.com/NixOS/release-artwork)
+
+Home to NixOS release artwork.
+
+@Sigmanificient controls this repository.
+
 ### [surveys](https://github.com/NixOS/surveys)
 
 The home of survey questions, historical data, and processing code.
