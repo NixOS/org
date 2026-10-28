@@ -124,7 +124,7 @@ Eligibility follows [Vote eligibility](#vote-eligibility).
 The vote is administered by the Election Committee.
 
 The SC must publish the question and the available options at least four weeks before voting opens.
-Binding referendums must include a threshold required to pass; this threshold must be a majority (at least 50%) of votes.
+Binding referendums must include a threshold required to pass; this threshold must be at least a majority of strictly greater than 50% of total eligible voters.
 If a binding referendum passes it shall take effect in the following way:
 - During the first year it requires an [extraordinary decision](#extraordinary-decisions) of the SC to overturn it.
 - After one year, it takes a mere [ordinary decision](#ordinary-decisions) of the SC to overturn it.
