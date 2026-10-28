@@ -123,6 +123,8 @@ A non-binding referendum is advisory, and functions like a large opinion poll.
 Eligibility follows [Vote eligibility](#vote-eligibility).
 The vote is administered by the Election Committee.
 
+When the SC votes to hold a referendum, the text of the vote must include whether the referendum will be binding or non-binding.
+
 The SC must publish the question and the available options at least four weeks before voting opens.
 Binding referendums must include a threshold required to pass; this threshold must be at least a majority of strictly greater than 50% of total eligible voters.
 If a binding referendum passes it shall take effect in the following way:
