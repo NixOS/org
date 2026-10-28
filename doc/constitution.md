@@ -108,14 +108,14 @@ Deciding that an amendment is not substantial can be done by unanimity among a f
 
 #### Ordinary decisions
 
-Everything within the authority of SC that doesn't require an extraordinary decision can be decided with a simple majority (more than 50%) of a full SC (vacant seats count as abstaining, [except when voting for reelection](#full-reelections)).
+Everything within the authority of SC that doesn't require an [extraordinary decision] can be decided with a simple majority (more than 50%) of a full SC (vacant seats count as abstaining, [except when voting for reelection](#full-reelections)).
 
 An exception to that is when there is when the [conflict of interest balance](#conflict-of-interest-coi-balance) condition is suspected to be violated.
 In that case, all non-involved currently serving SC members will have a simple majority decision over whether there is a violation.
 
 #### Referendums
 
-The SC may, by [ordinary decision](#ordinary-decisions), put a non-binding vote to the community, and by [extraordinary decision](#extraordinary-decisions), a binding vote.
+The SC may, by [ordinary decision], put a non-binding vote to the community, and by [extraordinary decision], a binding vote.
 
 A binding referendum results in the adoption of some new policy.
 A non-binding referendum is advisory, and functions like a large opinion poll.
@@ -128,8 +128,8 @@ When the SC votes to hold a referendum, the text of the vote must include whethe
 The SC must publish the question and the available options at least four weeks before voting opens.
 Binding referendums must include a threshold required to pass; this threshold must be at least a majority of eligible voters, i.e. a threshold of at least 50% of total eligible voters, not just 50% of votes actually cast.
 If a binding referendum passes it shall take effect in the following way:
-- During the first year it requires an [extraordinary decision](#extraordinary-decisions) of the SC to overturn it.
-- After one year, it takes a mere [ordinary decision](#ordinary-decisions) of the SC to overturn it.
+- During the first year it requires an [extraordinary decision] of the SC to overturn it.
+- After one year, it takes a mere [ordinary decision] of the SC to overturn it.
 
 ### Composition and Appointment
 
@@ -191,9 +191,12 @@ One option is to use [proportional representation mode from Condorcet Internet V
 
 In any election where seats with different end-of-term dates are available, winning candidates with higher final election rankings are appointed to the longer terms.
 
-#### Special considerations for the first SC election
+#### Initial Elections
 
-- To stagger the terms, the first election will appoint half the members rounded up with 2-year terms and the remaining members with 1-year terms.
+An initial election of the entire SC must appoint half the members rounded up with 2-year terms and the remaining members with 1-year terms.
+This occurs with the first SC election, and also may occur in the event the SC is [dissolved](#full-reelections).
+
+Additionally, the following rules apply to the very first election:
 - The EC for the first election will be the members of the [Nix Constitutional Assembly (NCA)](https://github.com/nixos/nix-constitutional-assembly?tab=readme-ov-file#members), which are thus ineligible to be elected for the first SC
 - All nominees become candidates for the first election, because there's no existing SC that would decide over disqualifying candidates.
 - And to help the first elected SC establish itself, members of the NCA are integrated into the SC as non-voting members for 6 months after the appointment.
@@ -211,18 +214,22 @@ After all candidates are known and before the voting period starts, the EC must 
 Furthermore, there is a hard maximum of two members with the same CoI at any time.
 If this condition is suspected to be violated because of job changes, acquisitions, or other events, all non-involved currently serving SC members will have a simple majority decision over whether there is a violation.
 In case it is deemed a violation, sufficient members of the committee must resign until the max representation limit is achieved.
-If it is impossible to find sufficient members to resign, all members with that same CoI will be removed and a new special election shall be held.
+If it is impossible to find sufficient members to resign, all members with that same CoI will be removed and a new [special election] shall be held.
 
 #### Special Elections
 
-In the event of a resignation or other loss of a steering committee member (including a [removal for conduct](#removal-for-conduct)), a special election for that seat may be held if the SC deems it necessary, or the SC does not have half of the normal size.
+In the event of resignations or other loss of steering committee members (including [removals for conduct](#removal-for-conduct)), the SC would have less than all 7 seats filled.
+
+When one or more seats are vacant, a special election may be held for those vacant seats.
 Otherwise, the missing seats are assumed to be abstaining from all the SC votes.
 A committee member elected in a special election will serve out the remainder of the term of the person they are replacing, regardless of the length of that remainder.
+
+A special election for vacant seats may be held if the SC deems it necessary, or the SC does not have half of the normal size.
 
 #### Full Reelections
 
 A simple majority within the SC may call a reelection of the entire SC based on perceived loss of confidence.
-In this case, it also has to be decided whether this election is considered a special election for the remainders of all the corresponding terms, or an initial election for full 2-year terms for half of the seats rounded up and 1-year half-terms for the remaining seats.
+In this case, it also has to be decided whether this election is considered a [special election] for the remainders of all the corresponding terms, or an [initial election] for full 2-year terms for half of the seats rounded up and 1-year half-terms for the remaining seats.
 Vacant seats vote in favour of reelection, and between initial election and special election they count towards special election.
 
 ### Removal for conduct
@@ -232,3 +239,8 @@ The reasons include but are not limited to unfitting conduct and unavailability,
 The SC is explicitly expected to be held to higher standards than applied to project communication in general.
 
 The removal can be justification for a special election where the removed person is not eligible to be a candidate.
+
+[ordinary decision]: #ordinary-decisions
+[extraordinary decision]: #extraordinary-decisions
+[special election]: #special-elections
+[initial election]: #special-elections
