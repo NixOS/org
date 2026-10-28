@@ -211,7 +211,7 @@ After all candidates are known and before the voting period starts, the EC must 
 Furthermore, there is a hard maximum of two members with the same CoI at any time.
 If this condition is suspected to be violated because of job changes, acquisitions, or other events, all non-involved currently serving SC members will have a simple majority decision over whether there is a violation.
 In case it is deemed a violation, sufficient members of the committee must resign until the max representation limit is achieved.
-If it is impossible to find sufficient members to resign, all members with that same CoI will be removed and a new special election shall be held.
+If it is impossible to find sufficient members to resign, all members with that same CoI will be removed and a new [special election] shall be held.
 
 #### Special Elections
 
@@ -222,7 +222,7 @@ A committee member elected in a special election will serve out the remainder of
 #### Full Reelections
 
 A simple majority within the SC may call a reelection of the entire SC based on perceived loss of confidence.
-In this case, it also has to be decided whether this election is considered a special election for the remainders of all the corresponding terms, or an initial election for full 2-year terms for half of the seats rounded up and 1-year half-terms for the remaining seats.
+In this case, it also has to be decided whether this election is considered a [special election] for the remainders of all the corresponding terms, or an initial election for full 2-year terms for half of the seats rounded up and 1-year half-terms for the remaining seats.
 Vacant seats vote in favour of reelection, and between initial election and special election they count towards special election.
 
 ### Removal for conduct
@@ -235,3 +235,4 @@ The removal can be justification for a special election where the removed person
 
 [ordinary decision]: #ordinary-decisions
 [extraordinary decision]: #extraordinary-decisions
+[special election]: #special-elections
