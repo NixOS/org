@@ -115,7 +115,7 @@ In that case, all non-involved currently serving SC members will have a simple m
 
 #### Referendums
 
-The SC may, by [simple majority](#ordinary-decisions), put a non-binding vote to the community, and by [supermajority](#extraordinary-decisions), a binding vote.
+The SC may, by [ordinary decision](#ordinary-decisions), put a non-binding vote to the community, and by [extraordinary decision](#extraordinary-decisions), a binding vote.
 
 A binding referendum results in the adoption of some new policy.
 A non-binding referendum is advisory, and functions like a large opinion poll.
