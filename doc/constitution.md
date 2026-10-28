@@ -113,6 +113,24 @@ Everything within the authority of SC that doesn't require an extraordinary deci
 An exception to that is when there is when the [conflict of interest balance](#conflict-of-interest-coi-balance) condition is suspected to be violated.
 In that case, all non-involved currently serving SC members will have a simple majority decision over whether there is a violation.
 
+#### Referendums
+
+The SC may, by [ordinary decision](#ordinary-decisions), put a non-binding vote to the community, and by [extraordinary decision](#extraordinary-decisions), a binding vote.
+
+A binding referendum results in the adoption of some new policy.
+A non-binding referendum is advisory, and functions like a large opinion poll.
+
+Eligibility follows [Vote eligibility](#vote-eligibility).
+The vote is administered by the Election Committee.
+
+When the SC votes to hold a referendum, the text of the vote must include whether the referendum will be binding or non-binding.
+
+The SC must publish the question and the available options at least four weeks before voting opens.
+Binding referendums must include a threshold required to pass; this threshold must be at least a majority of eligible voters, i.e. a threshold of at least 50% of total eligible voters, not just 50% of votes actually cast.
+If a binding referendum passes it shall take effect in the following way:
+- During the first year it requires an [extraordinary decision](#extraordinary-decisions) of the SC to overturn it.
+- After one year, it takes a mere [ordinary decision](#ordinary-decisions) of the SC to overturn it.
+
 ### Composition and Appointment
 
 The SC consists of 7 elected members.
