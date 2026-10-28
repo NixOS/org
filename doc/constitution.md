@@ -115,7 +115,7 @@ In that case, all non-involved currently serving SC members will have a simple m
 
 #### Referendums
 
-The SC may, by [ordinary decision](#ordinary-decisions), put a non-binding vote to the community, and by [extraordinary decision](#extraordinary-decisions), a binding vote.
+The SC may, by [ordinary decision], put a non-binding vote to the community, and by [extraordinary decision], a binding vote.
 
 A binding referendum results in the adoption of some new policy.
 A non-binding referendum is advisory, and functions like a large opinion poll.
@@ -128,8 +128,8 @@ When the SC votes to hold a referendum, the text of the vote must include whethe
 The SC must publish the question and the available options at least four weeks before voting opens.
 Binding referendums must include a threshold required to pass; this threshold must be at least a majority of eligible voters, i.e. a threshold of at least 50% of total eligible voters, not just 50% of votes actually cast.
 If a binding referendum passes it shall take effect in the following way:
-- During the first year it requires an [extraordinary decision](#extraordinary-decisions) of the SC to overturn it.
-- After one year, it takes a mere [ordinary decision](#ordinary-decisions) of the SC to overturn it.
+- During the first year it requires an [extraordinary decision] of the SC to overturn it.
+- After one year, it takes a mere [ordinary decision] of the SC to overturn it.
 
 ### Composition and Appointment
 
@@ -232,3 +232,6 @@ The reasons include but are not limited to unfitting conduct and unavailability,
 The SC is explicitly expected to be held to higher standards than applied to project communication in general.
 
 The removal can be justification for a special election where the removed person is not eligible to be a candidate.
+
+[ordinary decision]: #ordinary-decisions
+[extraordinary decision]: #extraordinary-decisions
