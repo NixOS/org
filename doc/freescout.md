@@ -2,15 +2,25 @@
 
 [Freescout](https://freescout.net/) is used on top of [email addresses](./mail.md) for shared inboxes, in particular our own instance: <https://freescout.nixos.org/>.
 
-## Requests
+## Inboxes
 
-You can request a shared inbox for your team, or changes to an existing inbox by opening an issue in this repository and pinging @infinisil.
+The following shared inboxes exist:
 
-For a new shared inbox, make sure to include:
-- Team name (will be used in email footer):
-- Email address: \<email-handle\>@nixos.org
+1. NixOS Foundation <foundation@nixos.org>: @infinisil @ryantrinkle @lassulus @Ra33it0 @refroni
+1. NixOS Foundation Finance <finance@nixos.org>: @Ericson2314 @infinisil @wamirez @ryantrinkle @lassulus @Ra33it0 @refroni
+1. Nix@NGI <ngi@nixos.org>: @phanirithvij @imincik @eljamm @wamirez
+1. Moderation Team <moderation@nixos.org>: @piegamesde @mweinelt @rhendric @nim65s
+1. NixOS Hardware Team <hardware@nixos.org>: @RossComputerGuy @Mic92 @Ra33it0
+1. NixCon Organisers <nixcon@nixos.org>: @ForsakenHarmony @andir @john-rodewald @ners @picnoir @lassulus @Ra33it0
+1. Nix Steering Committee <steering@nixos.org>: @cafkafk @philiptaron @K900 @tomberek @roberth @Ericson2314 @JulienMalka
+1. Election Committee <elections@nixos.org>: @trespaul @ethancedwards8 @iamanaws @ners @RossComputerGuy
+1. Nixpkgs core team <nixpkgs-core@nixos.org>:
 
-<details><summary>@infinisil perform these steps to set up a new shared inbox:</summary>
+To request changes, change this list and open a PR.
+If you don't have a freescout account yet, @infinisil will privately ask you for a personal account email.
+@infinisil as the sole admin can make changes and run [the script](../scripts/freescout-sync.sh) to check for consistency.
+
+<details><summary>Steps for admins to set up a new shared inbox:</summary>
 
 - Generate a password for the email login (used to set up Freescout)
 - Create a PR to `mailing-lists.nix` for the new email address:
@@ -46,7 +56,7 @@ For a new shared inbox, make sure to include:
     - IMAP Folder To Save Outgoing Replies: Sent
   - In Permissions, check "Hide from Assign list" for "Silvan (admin) Mosberger"
 - Invite everybody that doesn't have an account yet to freescout with access to the new mailbox
-  - Look up emails in the maintainer list
+  - Ask for emails privately
 
 </details>
 
