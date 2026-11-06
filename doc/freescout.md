@@ -103,5 +103,6 @@ The following modules are currently installed:
 - [Mentions](https://freescout.net/module/mentions/)
 - [Sent-Folder](https://freescout.net/module/sent-folder/)
 - [Customers Management (CRM)](https://freescout.net/module/crm/)
+- [API & Webhooks](https://freescout.net/module/api-webhooks/)
 
 Feel free to request additional modules by adding it to the above list and opening a PR.
