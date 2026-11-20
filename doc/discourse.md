@@ -7,6 +7,7 @@ That subdomain is hosted by [Flying Circus](https://flyingcircus.io/). If you're
 To request permissions or changes to Discourse, talk to one of the [administrators](https://discourse.nixos.org/about).
 
 The administration is handled by 2 Moderators, 1-2 representatives from the Steering Committee and the following Administrators from the sponsoring hosting provider (Flying Circus as mentioned above) and the Infra Team.
+Administration may be handled by more Flying Circus administrators through a shared admin account to be actionable.
 
 Moderators:
 - @lassulus
@@ -16,7 +17,7 @@ SC representatives:
 
 Flying Circus Administrators:
 - @ctheune
-- @dpausp
+- @leona-ya
 
 Infra Team:
 - @mweinelt
