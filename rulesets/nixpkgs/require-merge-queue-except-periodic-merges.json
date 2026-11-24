@@ -11,13 +11,14 @@
       "include": [
         "refs/heads/haskell-updates",
         "refs/heads/staging",
-        "refs/heads/staging-26.05",
-        "refs/heads/staging-26.11",
         "refs/heads/staging-next",
-        "refs/heads/staging-next-26.05",
-        "refs/heads/staging-next-26.11",
         "refs/heads/staging-nixos",
-        "refs/heads/staging-nixos-26.05"
+        "refs/heads/staging-next-26.05",
+        "refs/heads/staging-26.05",
+        "refs/heads/staging-nixos-26.05",
+        "refs/heads/staging-26.11",
+        "refs/heads/staging-next-26.11",
+        "refs/heads/staging-nixos-26.11"
       ]
     }
   },
