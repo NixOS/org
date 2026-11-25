@@ -44,7 +44,7 @@ See [this page](./github.md) for more information.
 
 - [Docker](https://hub.docker.com/u/nixos) - owner: infra
 - [Open collective](https://opencollective.com/nixos) - owner: foundation
-- [YouTube](https://www.youtube.com/@NixOS-Foundation) - owner: marketing
+- [Google brand account](https://myaccount.google.com/brandaccounts/105991182106563193679/view) ([YouTube @NixOS-Foundation](https://www.youtube.com/@NixOS-Foundation), Search console for [nixos.org](https://search.google.com/search-console?resource_id=sc-domain:nixos.org) and [nix.dev](https://search.google.com/search-console?resource_id=sc-domain:nixos.org)) - owners: @garbas (primary owner), @Ra33it0 (owner), @djacu (owner), @fricklerhandwerk (manager), @wamirez (manager)
 - [Twitter](https://twitter.com/nixos_org) - owner: marketing
 - [Mastodon](https://chaos.social/@nixos_org) - owner: marketing
 <!-- xrefcheck: ignore link -->
