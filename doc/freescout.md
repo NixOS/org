@@ -12,7 +12,7 @@ The following shared inboxes exist:
 1. Moderation Team <moderation@nixos.org>: @piegamesde @mweinelt @rhendric @nim65s
 1. NixOS Hardware Team <hardware@nixos.org>: @RossComputerGuy @Mic92 @Ra33it0
 1. NixCon Organisers <nixcon@nixos.org>: @ForsakenHarmony @andir @john-rodewald @ners @picnoir @lassulus @Ra33it0
-1. Nix Steering Committee <steering@nixos.org>: @cafkafk @philiptaron @K900 @tomberek @roberth @Ericson2314 @JulienMalka
+1. Nix Steering Committee <steering@nixos.org>: @NotAShelf @niklaskorz @cafkafk @K900 @tomberek @Ericson2314 @JulienMalka
 1. Election Committee <elections@nixos.org>: @trespaul @ethancedwards8 @iamanaws @ners @RossComputerGuy
 1. Nixpkgs core team <nixpkgs-core@nixos.org>:
 
