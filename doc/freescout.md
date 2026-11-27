@@ -114,5 +114,6 @@ The following modules are currently installed:
 - [Sent-Folder](https://freescout.net/module/sent-folder/)
 - [Customers Management (CRM)](https://freescout.net/module/crm/)
 - [API & Webhooks](https://freescout.net/module/api-webhooks/)
+- [Followers](https://freescout.net/module/followers/)
 
 Feel free to request additional modules by adding it to the above list and opening a PR.
